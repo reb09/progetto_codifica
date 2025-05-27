@@ -1,0 +1,3344 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="trasformazione.xsl"?>
+
+<!DOCTYPE TEI SYSTEM "tei_all.dtd">
+
+<TEI xml:lang="it"
+      xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+            <fileDesc>
+                  <titleStmt>
+                        <title xml:id="titolo_principale">La Rassegna Settimanale, Volume 6, Fascicolo 132</title>
+                        <respStmt>
+                              <resp>Codifica TEI realizzata da:</resp>
+                              <name xml:id="rebecca">Rebecca D'Aria</name>
+                        </respStmt>
+                        <sponsor>Universita' di Pisa</sponsor>
+                  </titleStmt>
+
+                  <publicationStmt>
+                        <publisher>Universita' di Pisa</publisher>
+                        <pubPlace>Pisa</pubPlace>
+                        <date>2025</date>
+                        <availability status="free">
+                              <p>L'edizione digitale e' consultabile liberamente</p>
+                        </availability>
+                  </publicationStmt>
+
+                  <seriesStmt>
+                        <title>Edizione elettronica della rivista "La Rassegna Settimanale"</title>
+                        <respStmt>
+                              <resp>coordinata dal professor</resp>
+                              <name>Angelo Mario Del Grosso</name>
+                        </respStmt>
+                  </seriesStmt>
+
+                  <notesStmt>
+                        <note>La digitalizzazione e l'indicizzazione della Rassegna settimanale e' stata realizzata nell'ambito delle iniziative previste per il Centenario della morte di Leopoldo Franchetti.</note>
+                        <note>La scansione digitale dell'intera rivista e' consultabile sul sito: <ref target="https://rassegnasettimanale.animi.it">https://rassegnasettimanale.animi.it</ref>
+                        </note>
+                  </notesStmt>
+
+                  <sourceDesc>
+                        <biblStruct type="article">
+                              <analytic xml:id="art1">
+                                    <title level="a">La settimana</title>
+                                    <textLang mainLang="it">Italiano</textLang>
+                              </analytic>
+                              <analytic xml:id="art2">
+                                    <title level="a">Tusnelda e Tumelico</title>
+                                    <textLang mainLang="it">Italiano</textLang>
+                              </analytic>
+                              <analytic xml:id="bibliografia1">
+                                    <author>
+                                          <persName>W. Bagehot</persName>
+                                    </author>
+                                    <title level="m">Economic Studies</title>
+                                    <date>1880</date>
+                                    <textLang mainLang="it">Italiano</textLang>
+                              </analytic>
+                              <analytic xml:id="bibliografia2">
+                                    <author>
+                                          <persName>Vincenzo Campanile</persName>
+                                    </author>
+                                    <title level="m">Lezioni di Algebra Elementare</title>
+                                    <date>188<choice>
+                                          <orig></orig>
+                                          <reg>0</reg>
+                                    </choice>
+                              </date>
+                              <textLang mainLang="it">Italiano</textLang>
+                        </analytic>
+                        <analytic xml:id="notizia1">
+                              <title type="main">RIVISTE FRANCESI</title>
+                              <title type="sub">REVUE DES DEUX-MONDES.</title>
+                              <date>1 luglio</date>
+                              <textLang mainLang="it">Italiano</textLang>
+                        </analytic>
+                        <analytic xml:id="notizia2">
+                              <!-- Sommario 1 -->
+                              <title type="main">LA RASSEGNA SETTIMANALE.</title>
+                              <title type="sub">Sommario del n. 136, vol. 5°</title>
+                              <date>27 giugno 1880</date>
+                              <!-- Sommario 2 -->
+                              <title type="main">LA RASSEGNA SETTIMANALE.</title>
+                              <title type="sub">Sommario del n. 131, vol. 6°</title>
+                              <date>4 luglio 1880</date>
+                              <textLang mainLang="it">Italiano</textLang>
+                        </analytic>
+                        <monogr>
+                              <title level="j">La Rassegna Settimanale di politica, scienza, lettere ed arti</title>
+                              <textLang mainLang="it">Italiano</textLang>
+                              <respStmt>
+                                    <resp>Fondata da</resp>
+                                    <name>Leopoldo Franchetti</name>
+                                    <name>Sydney Sonnino</name>
+                              </respStmt>
+                              <imprint>
+                                    <pubPlace>Roma</pubPlace>
+                                    <publisher>Tipografia Barbera</publisher>
+                                    <date when="11-07-1880">11 luglio 1880</date>
+                              </imprint>
+                              <biblScope unit="volume">6</biblScope>
+                              <biblScope unit="article">132</biblScope>
+                              <biblScope unit="page">15, 16, 22, 23, 24, 31, 32, 33, 34</biblScope>
+                        </monogr>
+                  </biblStruct>
+            </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+            <projectDesc>
+                  <p>Il testo rispetta le linee guida della TEI ed e' stato realizzato per il corso di Codifica Di Testi dell'<orgName>Universita' di Pisa</orgName>
+                  </p>
+            </projectDesc>
+      </encodingDesc>
+</teiHeader>
+
+<facsimile>
+
+      <!--PAGINA  -->
+      <surface xml:id="pag1" n="1">
+
+            <graphic url='la_settimana.jpg' width='920px' height='1406px' />
+            <zone xml:id="titolo_art1" ulx="613" uly="528" lrx="752" lry="546" />
+            <zone xml:id="riga1_art1" ulx="807" uly="546" lrx="859" lry="558" />
+            <zone xml:id="riga2_art1" ulx="497" uly="559" lrx="892" lry="575" />
+            <zone xml:id="riga3_art1" ulx="477" uly="578" lrx="890" lry="594" />
+            <zone xml:id="riga4_art1" ulx="478" uly="595" lrx="888" lry="610" />
+            <zone xml:id="riga5_art1" ulx="477" uly="614" lrx="890" lry="629" />
+            <zone xml:id="riga6_art1" ulx="479" uly="633" lrx="893" lry="646" />
+            <zone xml:id="riga7_art1" ulx="478" uly="649" lrx="889" lry="665" />
+            <zone xml:id="riga8_art1" ulx="475" uly="668" lrx="893" lry="683" />
+            <zone xml:id="riga9_art1" ulx="478" uly="684" lrx="892" lry="698" />
+            <zone xml:id="riga10_art1" ulx="477" uly="700" lrx="891" lry="719" />
+            <zone xml:id="riga11_art1" ulx="478" uly="718" lrx="889" lry="735" />
+            <zone xml:id="riga12_art1" ulx="479" uly="736" lrx="887" lry="749" />
+            <zone xml:id="riga13_art1" ulx="479" uly="754" lrx="891" lry="768" />
+            <zone xml:id="riga14_art1" ulx="478" uly="769" lrx="892" lry="785" />
+            <zone xml:id="riga15_art1" ulx="477" uly="788" lrx="890" lry="803" />
+            <zone xml:id="riga16_art1" ulx="477" uly="807" lrx="889" lry="822" />
+            <zone xml:id="riga17_art1" ulx="475" uly="822" lrx="890" lry="840" />
+            <zone xml:id="riga18_art1" ulx="478" uly="842" lrx="890" lry="857" />
+            <zone xml:id="riga19_art1" ulx="477" uly="861" lrx="889" lry="874" />
+            <zone xml:id="riga20_art1" ulx="477" uly="877" lrx="890" lry="892" />
+            <zone xml:id="riga21_art1" ulx="477" uly="891" lrx="890" lry="908" />
+            <zone xml:id="riga22_art1" ulx="477" uly="911" lrx="888" lry="927" />
+            <zone xml:id="riga23_art1" ulx="477" uly="927" lrx="889" lry="943" />
+            <zone xml:id="riga24_art1" ulx="477" uly="947" lrx="888" lry="961" />
+            <zone xml:id="riga25_art1" ulx="479" uly="962" lrx="887" lry="977" />
+            <zone xml:id="riga26_art1" ulx="475" uly="978" lrx="891" lry="995" />
+            <zone xml:id="riga27_art1" ulx="477" uly="998" lrx="888" lry="1012" />
+            <zone xml:id="riga28_art1" ulx="476" uly="1013" lrx="888" lry="1028" />
+            <zone xml:id="riga29_art1" ulx="477" uly="1033" lrx="887" lry="1047" />
+            <zone xml:id="riga30_art1" ulx="476" uly="1049" lrx="887" lry="1064" />
+            <zone xml:id="riga31_art1" ulx="476" uly="1068" lrx="887" lry="1082" />
+            <zone xml:id="riga32_art1" ulx="475" uly="1084" lrx="888" lry="1099" />
+            <zone xml:id="riga33_art1" ulx="476" uly="1101" lrx="887" lry="1117" />
+            <zone xml:id="riga34_art1" ulx="474" uly="1117" lrx="890" lry="1133" />
+            <zone xml:id="riga35_art1" ulx="474" uly="1136" lrx="888" lry="1151" />
+            <zone xml:id="riga36_art1" ulx="475" uly="1150" lrx="887" lry="1167" />
+            <zone xml:id="riga37_art1" ulx="475" uly="1171" lrx="888" lry="1185" />
+            <zone xml:id="riga38_art1" ulx="477" uly="1188" lrx="885" lry="1202" />
+            <zone xml:id="riga39_art1" ulx="475" uly="1206" lrx="889" lry="1219" />
+            <zone xml:id="riga40_art1" ulx="474" uly="1224" lrx="890" lry="1238" />
+            <zone xml:id="riga41_art1" ulx="477" uly="1241" lrx="888" lry="1257" />
+
+      </surface>
+
+
+      <!--PAGINA  -->
+      <surface xml:id="pag2" n="2">
+
+            <graphic url='la_settimana2.png' width='726px' height='1070px' />
+            <zone xml:id="riga42_art1" ulx="35" uly="73" lrx="352" lry="85" />
+            <zone xml:id="riga43_art1" ulx="35" uly="87" lrx="353" lry="98" />
+            <zone xml:id="riga44_art1" ulx="36" uly="101" lrx="353" lry="113" />
+            <zone xml:id="riga45_art1" ulx="35" uly="114" lrx="353" lry="125" />
+            <zone xml:id="riga46_art1" ulx="35" uly="128" lrx="352" lry="137" />
+            <zone xml:id="riga47_art1" ulx="35" uly="141" lrx="353" lry="153" />
+            <zone xml:id="riga48_art1" ulx="35" uly="153" lrx="351" lry="166" />
+            <zone xml:id="riga49_art1" ulx="32" uly="167" lrx="353" lry="180" />
+            <zone xml:id="riga50_art1" ulx="34" uly="181" lrx="353" lry="191" />
+            <zone xml:id="riga51_art1" ulx="35" uly="193" lrx="353" lry="204" />
+            <zone xml:id="riga52_art1" ulx="36" uly="205" lrx="352" lry="219" />
+            <zone xml:id="riga53_art1" ulx="33" uly="220" lrx="353" lry="233" />
+            <zone xml:id="riga54_art1" ulx="33" uly="235" lrx="354" lry="247" />
+            <zone xml:id="riga55_art1" ulx="34" uly="247" lrx="354" lry="260" />
+            <zone xml:id="riga56_art1" ulx="34" uly="260" lrx="353" lry="273" />
+            <zone xml:id="riga57_art1" ulx="34" uly="273" lrx="350" lry="287" />
+            <zone xml:id="riga58_art1" ulx="36" uly="291" lrx="351" lry="301" />
+            <zone xml:id="riga59_art1" ulx="35" uly="301" lrx="352" lry="316" />
+            <zone xml:id="riga60_art1" ulx="34" uly="313" lrx="351" lry="327" />
+            <zone xml:id="riga61_art1" ulx="35" uly="328" lrx="353" lry="340" />
+            <zone xml:id="riga62_art1" ulx="36" uly="340" lrx="351" lry="353" />
+            <zone xml:id="riga63_art1" ulx="37" uly="355" lrx="352" lry="367" />
+            <zone xml:id="riga64_art1" ulx="35" uly="367" lrx="104" lry="380" />
+            <zone xml:id="riga65_art1" ulx="36" uly="382" lrx="353" lry="393" />
+            <zone xml:id="riga66_art1" ulx="36" uly="396" lrx="353" lry="406" />
+            <zone xml:id="riga67_art1" ulx="36" uly="410" lrx="350" lry="422" />
+            <zone xml:id="riga68_art1" ulx="37" uly="422" lrx="351" lry="435" />
+            <zone xml:id="riga69_art1" ulx="36" uly="437" lrx="352" lry="448" />
+            <zone xml:id="riga70_art1" ulx="35" uly="450" lrx="354" lry="462" />
+            <zone xml:id="riga71_art1" ulx="35" uly="462" lrx="353" lry="474" />
+            <zone xml:id="riga72_art1" ulx="36" uly="475" lrx="353" lry="490" />
+            <zone xml:id="riga73_art1" ulx="36" uly="489" lrx="355" lry="501" />
+            <zone xml:id="riga74_art1" ulx="36" uly="503" lrx="353" lry="515" />
+            <zone xml:id="riga75_art1" ulx="37" uly="518" lrx="353" lry="527" />
+            <zone xml:id="riga76_art1" ulx="37" uly="529" lrx="353" lry="543" />
+            <zone xml:id="riga77_art1" ulx="35" uly="544" lrx="351" lry="555" />
+            <zone xml:id="riga78_art1" ulx="35" uly="559" lrx="351" lry="570" />
+            <zone xml:id="riga79_art1" ulx="35" uly="570" lrx="353" lry="582" />
+            <zone xml:id="riga80_art1" ulx="32" uly="586" lrx="354" lry="596" />
+            <zone xml:id="riga81_art1" ulx="33" uly="600" lrx="346" lry="610" />
+            <zone xml:id="riga82_art1" ulx="40" uly="626" lrx="354" lry="636" />
+            <zone xml:id="riga83_art1" ulx="34" uly="637" lrx="353" lry="649" />
+            <zone xml:id="riga84_art1" ulx="34" uly="650" lrx="355" lry="662" />
+            <zone xml:id="riga85_art1" ulx="34" uly="662" lrx="352" lry="676" />
+            <zone xml:id="riga86_art1" ulx="35" uly="676" lrx="354" lry="687" />
+            <zone xml:id="riga87_art1" ulx="35" uly="690" lrx="352" lry="702" />
+            <zone xml:id="riga88_art1" ulx="36" uly="704" lrx="352" lry="715" />
+            <zone xml:id="riga89_art1" ulx="36" uly="715" lrx="352" lry="729" />
+            <zone xml:id="riga90_art1" ulx="37" uly="732" lrx="354" lry="744" />
+            <zone xml:id="riga91_art1" ulx="37" uly="745" lrx="353" lry="756" />
+            <zone xml:id="riga92_art1" ulx="38" uly="756" lrx="262" lry="768" />
+            <zone xml:id="riga93_art1" ulx="41" uly="772" lrx="353" lry="783" />
+            <zone xml:id="riga94_art1" ulx="36" uly="785" lrx="354" lry="797" />
+            <zone xml:id="riga95_art1" ulx="36" uly="800" lrx="352" lry="810" />
+            <zone xml:id="riga96_art1" ulx="37" uly="810" lrx="354" lry="824" />
+            <zone xml:id="riga97_art1" ulx="36" uly="824" lrx="353" lry="837" />
+            <zone xml:id="riga98_art1" ulx="36" uly="837" lrx="351" lry="851" />
+            <zone xml:id="riga99_art1" ulx="36" uly="853" lrx="353" lry="863" />
+            <zone xml:id="riga100_art1" ulx="37" uly="865" lrx="352" lry="877" />
+            <zone xml:id="riga101_art1" ulx="37" uly="878" lrx="353" lry="890" />
+            <zone xml:id="riga102_art1" ulx="37" uly="891" lrx="354" lry="905" />
+            <zone xml:id="riga103_art1" ulx="38" uly="904" lrx="352" lry="917" />
+            <zone xml:id="riga104_art1" ulx="38" uly="917" lrx="354" lry="931" />
+            <zone xml:id="riga105_art1" ulx="38" uly="931" lrx="353" lry="945" />
+            <zone xml:id="riga106_art1" ulx="39" uly="946" lrx="353" lry="958" />
+            <zone xml:id="riga107_art1" ulx="37" uly="958" lrx="353" lry="972" />
+            <zone xml:id="riga108_art1" ulx="365" uly="70" lrx="682" lry="85" />
+            <zone xml:id="riga109_art1" ulx="365" uly="87" lrx="664" lry="100" />
+            <zone xml:id="riga110_art1" ulx="366" uly="100" lrx="683" lry="113" />
+            <zone xml:id="riga111_art1" ulx="363" uly="112" lrx="681" lry="128" />
+            <zone xml:id="riga112_art1" ulx="363" uly="128" lrx="681" lry="140" />
+            <zone xml:id="riga113_art1" ulx="363" uly="141" lrx="682" lry="153" />
+            <zone xml:id="riga114_art1" ulx="364" uly="154" lrx="683" lry="168" />
+            <zone xml:id="riga115_art1" ulx="363" uly="169" lrx="682" lry="181" />
+            <zone xml:id="riga116_art1" ulx="365" uly="181" lrx="681" lry="194" />
+            <zone xml:id="riga117_art1" ulx="363" uly="193" lrx="682" lry="208" />
+            <zone xml:id="riga118_art1" ulx="363" uly="208" lrx="682" lry="219" />
+            <zone xml:id="riga119_art1" ulx="364" uly="219" lrx="681" lry="233" />
+            <zone xml:id="riga120_art1" ulx="363" uly="236" lrx="682" lry="247" />
+            <zone xml:id="riga121_art1" ulx="364" uly="250" lrx="682" lry="262" />
+            <zone xml:id="riga122_art1" ulx="365" uly="264" lrx="682" lry="274" />
+            <zone xml:id="riga123_art1" ulx="364" uly="277" lrx="682" lry="287" />
+            <zone xml:id="riga124_art1" ulx="365" uly="289" lrx="682" lry="303" />
+            <zone xml:id="riga125_art1" ulx="363" uly="304" lrx="681" lry="313" />
+            <zone xml:id="riga126_art1" ulx="363" uly="316" lrx="681" lry="329" />
+            <zone xml:id="riga127_art1" ulx="363" uly="331" lrx="682" lry="342" />
+            <zone xml:id="riga128_art1" ulx="363" uly="343" lrx="681" lry="353" />
+            <zone xml:id="riga129_art1" ulx="363" uly="355" lrx="678" lry="367" />
+            <zone xml:id="riga130_art1" ulx="366" uly="368" lrx="680" lry="381" />
+            <zone xml:id="riga131_art1" ulx="365" uly="384" lrx="681" lry="394" />
+            <zone xml:id="riga132_art1" ulx="365" uly="397" lrx="680" lry="409" />
+            <zone xml:id="riga133_art1" ulx="364" uly="411" lrx="681" lry="421" />
+            <zone xml:id="riga134_art1" ulx="364" uly="422" lrx="681" lry="436" />
+            <zone xml:id="riga135_art1" ulx="365" uly="437" lrx="681" lry="449" />
+            <zone xml:id="riga136_art1" ulx="364" uly="449" lrx="682" lry="463" />
+            <zone xml:id="riga137_art1" ulx="364" uly="464" lrx="683" lry="476" />
+            <zone xml:id="riga138_art1" ulx="364" uly="464" lrx="683" lry="476" />
+            <zone xml:id="riga139_art1" ulx="364" uly="464" lrx="683" lry="476" />
+            <zone xml:id="riga140_art1" ulx="366" uly="505" lrx="682" lry="516" />
+            <zone xml:id="riga141_art1" ulx="365" uly="518" lrx="681" lry="530" />
+            <zone xml:id="riga142_art1" ulx="364" uly="532" lrx="683" lry="544" />
+            <zone xml:id="riga143_art1" ulx="364" uly="544" lrx="682" lry="556" />
+            <zone xml:id="riga144_art1" ulx="365" uly="559" lrx="484" lry="569" />
+            <zone xml:id="riga145_art1" ulx="366" uly="572" lrx="682" lry="583" />
+            <zone xml:id="riga146_art1" ulx="364" uly="584" lrx="682" lry="597" />
+            <zone xml:id="riga147_art1" ulx="364" uly="600" lrx="682" lry="611" />
+            <zone xml:id="riga148_art1" ulx="365" uly="612" lrx="682" lry="625" />
+            <zone xml:id="riga149_art1" ulx="364" uly="625" lrx="681" lry="638" />
+            <zone xml:id="riga150_art1" ulx="364" uly="640" lrx="682" lry="653" />
+            <zone xml:id="riga151_art1" ulx="365" uly="655" lrx="682" lry="665" />
+            <zone xml:id="riga152_art1" ulx="365" uly="655" lrx="682" lry="665" />
+            <zone xml:id="riga153_art1" ulx="362" uly="680" lrx="683" lry="692" />
+            <zone xml:id="riga154_art1" ulx="363" uly="694" lrx="684" lry="705" />
+            <zone xml:id="riga155_art1" ulx="363" uly="707" lrx="682" lry="719" />
+            <zone xml:id="riga156_art1" ulx="363" uly="719" lrx="684" lry="732" />
+            <zone xml:id="riga157_art1" ulx="362" uly="734" lrx="464" lry="744" />
+            <zone xml:id="riga158_art1" ulx="364" uly="745" lrx="685" lry="758" />
+            <zone xml:id="riga159_art1" ulx="365" uly="761" lrx="683" lry="771" />
+            <zone xml:id="riga160_art1" ulx="364" uly="774" lrx="683" lry="787" />
+            <zone xml:id="riga161_art1" ulx="364" uly="786" lrx="682" lry="798" />
+            <zone xml:id="riga162_art1" ulx="365" uly="800" lrx="682" lry="813" />
+            <zone xml:id="riga163_art1" ulx="365" uly="814" lrx="684" lry="826" />
+            <zone xml:id="riga164_art1" ulx="365" uly="827" lrx="681" lry="840" />
+            <zone xml:id="riga165_art1" ulx="364" uly="841" lrx="605" lry="852" />
+            <zone xml:id="riga166_art1" ulx="364" uly="841" lrx="605" lry="852" />
+            <zone xml:id="riga167_art1" ulx="365" uly="867" lrx="683" lry="880" />
+            <zone xml:id="riga168_art1" ulx="364" uly="881" lrx="683" lry="893" />
+            <zone xml:id="riga169_art1" ulx="364" uly="896" lrx="683" lry="907" />
+            <zone xml:id="riga170_art1" ulx="365" uly="908" lrx="682" lry="919" />
+            <zone xml:id="riga171_art1" ulx="364" uly="920" lrx="682" lry="933" />
+            <zone xml:id="riga172_art1" ulx="362" uly="934" lrx="682" lry="946" />
+            <zone xml:id="riga173_art1" ulx="364" uly="947" lrx="600" lry="962" />
+
+
+
+
+
+      </surface>
+
+      <!-- Tusnelda e Tumelico-->
+      <surface xml:id="pagina22" n="22">
+
+            <graphic url='tunselda_e_tumerico1.png' width='1156px' height='1734px' />
+            <zone xml:id="titolo_art2" ulx="189" uly="1431" lrx="465" lry="1454" />
+            <zone xml:id="riga1_art2" ulx="104" uly="1460" lrx="590" lry="1481" />
+            <zone xml:id="riga2_art2" ulx="77" uly="1483" lrx="590" lry="1505" />
+            <zone xml:id="riga3_art2" ulx="78" uly="1505" lrx="588" lry="1525" />
+            <zone xml:id="riga4_art2" ulx="75" uly="1528" lrx="588" lry="1546" />
+            <zone xml:id="riga5_art2" ulx="74" uly="1548" lrx="589" lry="1571" />
+            <zone xml:id="riga6_art2" ulx="75" uly="1572" lrx="587" lry="1591" />
+            <zone xml:id="riga7_art2" ulx="599" uly="145" lrx="1109" lry="162" />
+            <zone xml:id="riga8_art2" ulx="598" uly="168" lrx="1110" lry="184" />
+            <zone xml:id="riga9_art2" ulx="599" uly="188" lrx="1109" lry="207" />
+            <zone xml:id="riga10_art2" ulx="600" uly="209" lrx="1110" lry="228" />
+            <zone xml:id="riga11_art2" ulx="600" uly="234" lrx="927" lry="250" />
+            <zone xml:id="riga12_art2" ulx="626" uly="254" lrx="1111" lry="272" />
+            <zone xml:id="riga13_art2" ulx="600" uly="277" lrx="1110" lry="295" />
+            <zone xml:id="riga14_art2" ulx="601" uly="301" lrx="1110" lry="316" />
+            <zone xml:id="riga15_art2" ulx="600" uly="319" lrx="1111" lry="337" />
+            <zone xml:id="riga16_art2" ulx="602" uly="340" lrx="1111" lry="358" />
+            <zone xml:id="riga17_art2" ulx="602" uly="362" lrx="1112" lry="380" />
+            <zone xml:id="riga18_art2" ulx="601" uly="383" lrx="1111" lry="404" />
+            <zone xml:id="riga19_art2" ulx="602" uly="409" lrx="1113" lry="424" />
+            <zone xml:id="riga20_art2" ulx="602" uly="430" lrx="1111" lry="446" />
+            <zone xml:id="riga21_art2" ulx="603" uly="450" lrx="1110" lry="464" />
+            <zone xml:id="riga22_art2" ulx="603" uly="468" lrx="1112" lry="489" />
+            <zone xml:id="riga23_art2" ulx="602" uly="491" lrx="1112" lry="511" />
+            <zone xml:id="riga24_art2" ulx="603" uly="515" lrx="1111" lry="531" />
+            <zone xml:id="riga25_art2" ulx="605" uly="534" lrx="1111" lry="554" />
+            <zone xml:id="riga26_art2" ulx="604" uly="559" lrx="1112" lry="575" />
+            <zone xml:id="riga27_art2" ulx="604" uly="578" lrx="1115" lry="595" />
+            <zone xml:id="riga28_art2" ulx="604" uly="601" lrx="1114" lry="619" />
+            <zone xml:id="riga29_art2" ulx="603" uly="623" lrx="1113" lry="640" />
+            <zone xml:id="riga30_art2" ulx="603" uly="644" lrx="1114" lry="662" />
+            <zone xml:id="riga31_art2" ulx="606" uly="665" lrx="1112" lry="683" />
+            <zone xml:id="riga32_art2" ulx="604" uly="685" lrx="1111" lry="706" />
+            <zone xml:id="riga33_art2" ulx="606" uly="710" lrx="1113" lry="726" />
+            <zone xml:id="riga34_art2" ulx="607" uly="729" lrx="1112" lry="747" />
+            <zone xml:id="riga35_art2" ulx="606" uly="751" lrx="1116" lry="771" />
+            <zone xml:id="riga36_art2" ulx="605" uly="775" lrx="1116" lry="792" />
+            <zone xml:id="riga37_art2" ulx="606" uly="795" lrx="1114" lry="812" />
+            <zone xml:id="riga38_art2" ulx="608" uly="815" lrx="1116" lry="837" />
+            <zone xml:id="riga39_art2" ulx="608" uly="842" lrx="1114" lry="856" />
+            <zone xml:id="riga40_art2" ulx="607" uly="860" lrx="846" lry="877" />
+            <zone xml:id="riga41_art2" ulx="614" uly="884" lrx="1115" lry="902" />
+            <zone xml:id="riga42_art2" ulx="606" uly="904" lrx="1118" lry="923" />
+            <zone xml:id="riga43_art2" ulx="608" uly="928" lrx="1115" lry="944" />
+            <zone xml:id="riga44_art2" ulx="606" uly="950" lrx="1117" lry="966" />
+            <zone xml:id="riga45_art2" ulx="605" uly="970" lrx="1117" lry="990" />
+            <zone xml:id="riga46_art2" ulx="606" uly="994" lrx="1116" lry="1009" />
+            <zone xml:id="riga47_art2" ulx="607" uly="1012" lrx="1115" lry="1032" />
+            <zone xml:id="riga48_art2" ulx="606" uly="1033" lrx="1117" lry="1050" />
+            <zone xml:id="riga49_art2" ulx="609" uly="1054" lrx="1117" lry="1075" />
+            <zone xml:id="riga50_art2" ulx="610" uly="1078" lrx="1118" lry="1097" />
+            <zone xml:id="riga51_art2" ulx="608" uly="1102" lrx="1117" lry="1115" />
+            <zone xml:id="riga52_art2" ulx="608" uly="1122" lrx="1115" lry="1140" />
+            <zone xml:id="riga53_art2" ulx="606" uly="1141" lrx="1117" lry="1161" />
+            <zone xml:id="riga54_art2" ulx="607" uly="1163" lrx="1117" lry="1182" />
+            <zone xml:id="riga55_art2" ulx="608" uly="1189" lrx="1115" lry="1202" />
+            <zone xml:id="riga56_art2" ulx="606" uly="1206" lrx="1113" lry="1225" />
+            <zone xml:id="riga57_art2" ulx="607" uly="1231" lrx="1114" lry="1248" />
+            <zone xml:id="riga58_art2" ulx="602" uly="1250" lrx="1116" lry="1270" />
+            <zone xml:id="riga59_art2" ulx="603" uly="1272" lrx="1114" lry="1289" />
+            <zone xml:id="riga60_art2" ulx="604" uly="1294" lrx="1117" lry="1314" />
+            <zone xml:id="riga61_art2" ulx="605" uly="1316" lrx="1112" lry="1334" />
+            <zone xml:id="riga62_art2" ulx="604" uly="1336" lrx="1115" lry="1354" />
+            <zone xml:id="riga63_art2" ulx="604" uly="1356" lrx="1117" lry="1379" />
+            <zone xml:id="riga64_art2" ulx="606" uly="1381" lrx="1113" lry="1397" />
+            <zone xml:id="riga65_art2" ulx="606" uly="1400" lrx="1119" lry="1421" />
+            <zone xml:id="riga66_art2" ulx="607" uly="1424" lrx="1114" lry="1441" />
+            <zone xml:id="riga67_art2" ulx="607" uly="1445" lrx="1114" lry="1463" />
+            <zone xml:id="riga68_art2" ulx="607" uly="1465" lrx="1113" lry="1485" />
+            <zone xml:id="riga69_art2" ulx="606" uly="1488" lrx="1113" lry="1507" />
+            <zone xml:id="nota70_art2" ulx="604" uly="1519" lrx="795" lry="1536" />
+            <zone xml:id="nota71_art2" ulx="610" uly="1542" lrx="804" lry="1554" />
+            <zone xml:id="nota72_art2" ulx="614" uly="1557" lrx="920" lry="1574" />
+            <zone xml:id="nota73_art2" ulx="613" uly="1579" lrx="996" lry="1596" />
+
+
+
+
+      </surface>
+
+      <!-- PAGINA 23 -->
+      <surface xml:id="pagina23" n="23">
+
+            <graphic url='tunselda_e_tumerico2.png' width='1156px' height='1734px' />
+            <zone xml:id="riga74_art2" ulx="63" uly="111" lrx="574" lry="130" />
+            <zone xml:id="riga75_art2" ulx="64" uly="131" lrx="530" lry="150" />
+            <zone xml:id="riga76_art2" ulx="80" uly="152" lrx="574" lry="172" />
+            <zone xml:id="riga77_art2" ulx="62" uly="176" lrx="574" lry="193" />
+            <zone xml:id="riga78_art2" ulx="62" uly="200" lrx="572" lry="216" />
+            <zone xml:id="riga79_art2" ulx="61" uly="220" lrx="574" lry="239" />
+            <zone xml:id="riga80_art2" ulx="63" uly="244" lrx="574" lry="260" />
+            <zone xml:id="riga81_art2" ulx="62" uly="261" lrx="575" lry="282" />
+            <zone xml:id="riga82_art2" ulx="63" uly="285" lrx="574" lry="305" />
+            <zone xml:id="riga83_art2" ulx="64" uly="304" lrx="575" lry="327" />
+            <zone xml:id="riga84_art2" ulx="63" uly="327" lrx="574" lry="348" />
+            <zone xml:id="riga85_art2" ulx="63" uly="348" lrx="575" lry="369" />
+            <zone xml:id="riga86_art2" ulx="63" uly="371" lrx="575" lry="391" />
+            <zone xml:id="riga87_art2" ulx="63" uly="394" lrx="574" lry="415" />
+            <zone xml:id="riga88_art2" ulx="63" uly="418" lrx="572" lry="437" />
+            <zone xml:id="riga89_art2" ulx="63" uly="441" lrx="572" lry="457" />
+            <zone xml:id="riga90_art2" ulx="62" uly="459" lrx="575" lry="480" />
+            <zone xml:id="riga91_art2" ulx="62" uly="482" lrx="257" lry="501" />
+            <zone xml:id="riga92_art2" ulx="84" uly="502" lrx="574" lry="524" />
+            <zone xml:id="riga93_art2" ulx="61" uly="528" lrx="573" lry="545" />
+            <zone xml:id="riga94_art2" ulx="63" uly="549" lrx="575" lry="565" />
+            <zone xml:id="riga95_art2" ulx="62" uly="571" lrx="573" lry="587" />
+            <zone xml:id="riga96_art2" ulx="62" uly="592" lrx="573" lry="607" />
+            <zone xml:id="riga97_art2" ulx="61" uly="613" lrx="574" lry="633" />
+            <zone xml:id="riga98_art2" ulx="61" uly="639" lrx="574" lry="656" />
+            <zone xml:id="riga99_art2" ulx="63" uly="659" lrx="574" lry="675" />
+            <zone xml:id="riga100_art2" ulx="64" uly="681" lrx="574" lry="698" />
+            <zone xml:id="riga101_art2" ulx="63" uly="702" lrx="575" lry="719" />
+            <zone xml:id="riga102_art2" ulx="65" uly="723" lrx="573" lry="740" />
+            <zone xml:id="riga103_art2" ulx="64" uly="743" lrx="574" lry="763" />
+            <zone xml:id="riga104_art2" ulx="61" uly="766" lrx="574" lry="786" />
+            <zone xml:id="riga105_art2" ulx="63" uly="789" lrx="574" lry="807" />
+            <zone xml:id="riga106_art2" ulx="62" uly="811" lrx="574" lry="829" />
+            <zone xml:id="riga107_art2" ulx="62" uly="836" lrx="573" lry="850" />
+            <zone xml:id="riga108_art2" ulx="65" uly="855" lrx="572" lry="873" />
+            <zone xml:id="riga109_art2" ulx="65" uly="876" lrx="573" lry="895" />
+            <zone xml:id="riga110_art2" ulx="65" uly="901" lrx="575" lry="916" />
+            <zone xml:id="riga111_art2" ulx="63" uly="922" lrx="575" lry="940" />
+            <zone xml:id="riga112_art2" ulx="63" uly="942" lrx="575" lry="960" />
+            <zone xml:id="riga113_art2" ulx="62" uly="963" lrx="575" lry="985" />
+            <zone xml:id="riga114_art2" ulx="62" uly="988" lrx="573" lry="1006" />
+            <zone xml:id="riga115_art2" ulx="62" uly="1008" lrx="574" lry="1026" />
+            <zone xml:id="riga116_art2" ulx="66" uly="1032" lrx="574" lry="1049" />
+            <zone xml:id="riga117_art2" ulx="64" uly="1054" lrx="573" lry="1071" />
+            <zone xml:id="riga118_art2" ulx="65" uly="1075" lrx="572" lry="1092" />
+            <zone xml:id="riga119_art2" ulx="64" uly="1095" lrx="575" lry="1117" />
+            <zone xml:id="riga120_art2" ulx="65" uly="1117" lrx="571" lry="1139" />
+            <zone xml:id="riga121_art2" ulx="66" uly="1140" lrx="574" lry="1159" />
+            <zone xml:id="riga122_art2" ulx="65" uly="1161" lrx="575" lry="1180" />
+            <zone xml:id="riga123_art2" ulx="63" uly="1182" lrx="575" lry="1202" />
+            <zone xml:id="riga124_art2" ulx="66" uly="1207" lrx="576" lry="1225" />
+            <zone xml:id="riga125_art2" ulx="66" uly="1227" lrx="573" lry="1246" />
+            <zone xml:id="riga126_art2" ulx="66" uly="1251" lrx="575" lry="1267" />
+            <zone xml:id="riga127_art2" ulx="65" uly="1270" lrx="575" lry="1288" />
+            <zone xml:id="riga128_art2" ulx="66" uly="1290" lrx="575" lry="1313" />
+            <zone xml:id="riga129_art2" ulx="66" uly="1315" lrx="281" lry="1333" />
+            <zone xml:id="riga130_art2" ulx="87" uly="1336" lrx="575" lry="1356" />
+            <zone xml:id="riga131_art2" ulx="66" uly="1360" lrx="577" lry="1378" />
+            <zone xml:id="riga132_art2" ulx="67" uly="1380" lrx="577" lry="1401" />
+            <zone xml:id="riga133_art2" ulx="67" uly="1403" lrx="575" lry="1421" />
+            <zone xml:id="riga134_art2" ulx="67" uly="1424" lrx="578" lry="1442" />
+            <zone xml:id="riga135_art2" ulx="66" uly="1449" lrx="575" lry="1466" />
+            <zone xml:id="nota136_art2" ulx="71" uly="1478" lrx="296" lry="1498" />
+            <zone xml:id="nota137_art2" ulx="79" uly="1501" lrx="455" lry="1515" />
+            <zone xml:id="nota138_art2" ulx="79" uly="1501" lrx="455" lry="1515" />
+            <zone xml:id="nota139_art2" ulx="68" uly="1541" lrx="262" lry="1558" />
+            <zone xml:id="nota140_art2" ulx="87" uly="1557" lrx="247" lry="1580" />
+            <zone xml:id="riga141_art2" ulx="592" uly="106" lrx="1104" lry="128" />
+            <zone xml:id="riga142_art2" ulx="596" uly="128" lrx="1103" lry="151" />
+            <zone xml:id="riga143_art2" ulx="591" uly="156" lrx="1103" lry="172" />
+            <zone xml:id="riga144_art2" ulx="594" uly="177" lrx="1101" lry="193" />
+            <zone xml:id="riga145_art2" ulx="591" uly="197" lrx="1104" lry="214" />
+            <zone xml:id="riga146_art2" ulx="591" uly="221" lrx="1102" lry="237" />
+            <zone xml:id="riga147_art2" ulx="592" uly="243" lrx="1105" lry="257" />
+            <zone xml:id="riga148_art2" ulx="594" uly="265" lrx="1103" lry="278" />
+            <zone xml:id="riga149_art2" ulx="594" uly="287" lrx="1107" lry="304" />
+            <zone xml:id="riga150_art2" ulx="591" uly="308" lrx="1108" lry="323" />
+            <zone xml:id="riga151_art2" ulx="592" uly="330" lrx="1103" lry="345" />
+            <zone xml:id="riga152_art2" ulx="592" uly="352" lrx="1104" lry="368" />
+            <zone xml:id="riga153_art2" ulx="592" uly="373" lrx="1106" lry="391" />
+            <zone xml:id="riga154_art2" ulx="592" uly="396" lrx="1105" lry="413" />
+            <zone xml:id="riga155_art2" ulx="594" uly="417" lrx="1105" lry="434" />
+            <zone xml:id="riga156_art2" ulx="595" uly="439" lrx="1104" lry="458" />
+            <zone xml:id="riga157_art2" ulx="592" uly="461" lrx="1106" lry="479" />
+            <zone xml:id="riga158_art2" ulx="593" uly="482" lrx="1103" lry="501" />
+            <zone xml:id="riga159_art2" ulx="591" uly="505" lrx="1105" lry="524" />
+            <zone xml:id="riga160_art2" ulx="593" uly="526" lrx="1102" lry="542" />
+            <zone xml:id="riga161_art2" ulx="592" uly="548" lrx="1104" lry="564" />
+            <zone xml:id="riga162_art2" ulx="590" uly="568" lrx="1107" lry="589" />
+            <zone xml:id="riga163_art2" ulx="592" uly="595" lrx="1103" lry="610" />
+            <zone xml:id="riga164_art2" ulx="593" uly="614" lrx="1106" lry="630" />
+            <zone xml:id="riga165_art2" ulx="593" uly="634" lrx="1105" lry="654" />
+            <zone xml:id="riga166_art2" ulx="594" uly="659" lrx="1104" lry="675" />
+            <zone xml:id="riga167_art2" ulx="591" uly="680" lrx="1100" lry="694" />
+            <zone xml:id="riga168_art2" ulx="593" uly="700" lrx="1104" lry="717" />
+            <zone xml:id="riga169_art2" ulx="591" uly="722" lrx="1104" lry="741" />
+            <zone xml:id="riga170_art2" ulx="592" uly="745" lrx="1102" lry="765" />
+            <zone xml:id="riga171_art2" ulx="591" uly="768" lrx="1104" lry="784" />
+            <zone xml:id="riga172_art2" ulx="593" uly="787" lrx="1104" lry="811" />
+            <zone xml:id="riga173_art2" ulx="591" uly="816" lrx="1105" lry="830" />
+            <zone xml:id="riga174_art2" ulx="591" uly="836" lrx="1106" lry="849" />
+            <zone xml:id="riga175_art2" ulx="590" uly="854" lrx="1108" lry="871" />
+            <zone xml:id="riga176_art2" ulx="591" uly="878" lrx="1108" lry="890" />
+            <zone xml:id="riga177_art2" ulx="590" uly="896" lrx="1105" lry="915" />
+            <zone xml:id="riga178_art2" ulx="591" uly="921" lrx="1104" lry="938" />
+            <zone xml:id="riga179_art2" ulx="592" uly="943" lrx="1105" lry="958" />
+            <zone xml:id="riga180_art2" ulx="593" uly="964" lrx="1107" lry="982" />
+            <zone xml:id="riga181_art2" ulx="594" uly="987" lrx="1106" lry="1001" />
+            <zone xml:id="riga182_art2" ulx="594" uly="1008" lrx="1107" lry="1025" />
+            <zone xml:id="riga183_art2" ulx="595" uly="1033" lrx="1105" lry="1048" />
+            <zone xml:id="riga184_art2" ulx="589" uly="1057" lrx="1109" lry="1072" />
+            <zone xml:id="riga185_art2" ulx="591" uly="1078" lrx="1102" lry="1094" />
+            <zone xml:id="riga186_art2" ulx="592" uly="1097" lrx="1105" lry="1114" />
+            <zone xml:id="riga187_art2" ulx="591" uly="1116" lrx="1106" lry="1136" />
+            <zone xml:id="riga188_art2" ulx="590" uly="1140" lrx="1109" lry="1159" />
+            <zone xml:id="riga189_art2" ulx="590" uly="1163" lrx="1106" lry="1178" />
+            <zone xml:id="riga190_art2" ulx="589" uly="1183" lrx="1105" lry="1200" />
+            <zone xml:id="riga191_art2" ulx="592" uly="1203" lrx="1107" lry="1223" />
+            <zone xml:id="riga192_art2" ulx="592" uly="1203" lrx="1107" lry="1223" />
+            <zone xml:id="riga193_art2" ulx="592" uly="1229" lrx="1107" lry="1246" />
+            <zone xml:id="riga194_art2" ulx="591" uly="1254" lrx="1106" lry="1269" />
+            <zone xml:id="riga195_art2" ulx="591" uly="1272" lrx="1105" lry="1289" />
+            <zone xml:id="riga196_art2" ulx="591" uly="1292" lrx="1109" lry="1311" />
+            <zone xml:id="riga197_art2" ulx="590" uly="1314" lrx="1108" lry="1330" />
+            <zone xml:id="riga198_art2" ulx="592" uly="1333" lrx="1107" lry="1353" />
+            <zone xml:id="riga199_art2" ulx="592" uly="1361" lrx="1108" lry="1375" />
+            <zone xml:id="riga200_art2" ulx="594" uly="1381" lrx="1106" lry="1400" />
+            <zone xml:id="riga201_art2" ulx="594" uly="1406" lrx="1107" lry="1420" />
+            <zone xml:id="riga202_art2" ulx="593" uly="1424" lrx="1107" lry="1443" />
+            <zone xml:id="riga203_art2" ulx="592" uly="1448" lrx="1106" lry="1464" />
+            <zone xml:id="riga204_art2" ulx="594" uly="1470" lrx="1106" lry="1488" />
+            <zone xml:id="riga205_art2" ulx="593" uly="1493" lrx="1107" lry="1510" />
+            <zone xml:id="riga206_art2" ulx="595" uly="1516" lrx="1105" lry="1530" />
+            <zone xml:id="riga207_art2" ulx="595" uly="1536" lrx="1105" lry="1552" />
+            <zone xml:id="riga208_art2" ulx="592" uly="1556" lrx="1105" lry="1576" />
+
+
+
+
+
+      </surface>
+
+      <!-- PAGINA 24 -->
+      <surface xml:id="pagina24" n="24">
+
+            <graphic url='tunselda_e_tumerico3.png' width='1162px' height='1734px' />
+            <zone xml:id="riga209_art2" ulx="83" uly="114" lrx="590" lry="135" />
+            <zone xml:id="riga210_art2" ulx="83" uly="140" lrx="589" lry="157" />
+            <zone xml:id="riga211_art2" ulx="83" uly="160" lrx="589" lry="178" />
+            <zone xml:id="riga212_art2" ulx="82" uly="179" lrx="594" lry="200" />
+            <zone xml:id="riga213_art2" ulx="84" uly="202" lrx="590" lry="221" />
+            <zone xml:id="riga214_art2" ulx="83" uly="222" lrx="593" lry="246" />
+            <zone xml:id="riga215_art2" ulx="84" uly="246" lrx="586" lry="266" />
+            <zone xml:id="riga216_art2" ulx="79" uly="266" lrx="588" lry="285" />
+            <zone xml:id="riga217_art2" ulx="82" uly="285" lrx="590" lry="307" />
+            <zone xml:id="riga218_art2" ulx="79" uly="309" lrx="588" lry="329" />
+            <zone xml:id="riga219_art2" ulx="81" uly="331" lrx="591" lry="351" />
+            <zone xml:id="riga220_art2" ulx="84" uly="352" lrx="590" lry="372" />
+            <zone xml:id="riga221_art2" ulx="83" uly="374" lrx="588" lry="395" />
+            <zone xml:id="riga222_art2" ulx="82" uly="396" lrx="585" lry="416" />
+            <zone xml:id="riga223_art2" ulx="84" uly="421" lrx="589" lry="439" />
+            <zone xml:id="riga224_art2" ulx="84" uly="441" lrx="589" lry="459" />
+            <zone xml:id="riga225_art2" ulx="82" uly="462" lrx="590" lry="480" />
+            <zone xml:id="riga226_art2" ulx="83" uly="485" lrx="568" lry="504" />
+
+
+
+
+
+      </surface>
+
+      <!-- PAGINA 31 -->
+      <surface xml:id="pagina31" n="31">
+            <graphic url='Bagheot.png' width='1128px' height='1734px' />
+            <zone xml:id="riga1_pag31" ulx="61" uly="1450" lrx="576" lry="1473" />
+            <zone xml:id="riga2_pag31" ulx="69" uly="1478" lrx="483" lry="1494" />
+            <zone xml:id="riga3_pag31" ulx="94" uly="1497" lrx="579" lry="1518" />
+            <zone xml:id="riga4_pag31" ulx="65" uly="1525" lrx="579" lry="1545" />
+            <zone xml:id="riga5_pag31" ulx="580" uly="91" lrx="1083" lry="111" />
+            <zone xml:id="riga6_pag31" ulx="576" uly="113" lrx="1085" lry="132" />
+            <zone xml:id="riga7_pag31" ulx="577" uly="136" lrx="1084" lry="151" />
+            <zone xml:id="riga8_pag31" ulx="578" uly="151" lrx="1086" lry="177" />
+            <zone xml:id="riga9_pag31" ulx="579" uly="179" lrx="1086" lry="197" />
+            <zone xml:id="riga10_pag31" ulx="580" uly="201" lrx="1084" lry="220" />
+            <zone xml:id="riga11_pag31" ulx="579" uly="221" lrx="1089" lry="240" />
+            <zone xml:id="riga12_pag31" ulx="581" uly="242" lrx="1086" lry="263" />
+            <zone xml:id="riga13_pag31" ulx="582" uly="266" lrx="1087" lry="284" />
+            <zone xml:id="riga14_pag31" ulx="584" uly="288" lrx="1089" lry="305" />
+            <zone xml:id="riga15_pag31" ulx="581" uly="306" lrx="1088" lry="325" />
+            <zone xml:id="riga16_pag31" ulx="581" uly="328" lrx="1086" lry="348" />
+            <zone xml:id="riga17_pag31" ulx="581" uly="353" lrx="1087" lry="373" />
+            <zone xml:id="riga18_pag31" ulx="581" uly="375" lrx="1084" lry="393" />
+            <zone xml:id="riga19_pag31" ulx="581" uly="398" lrx="1086" lry="413" />
+            <zone xml:id="riga20_pag31" ulx="582" uly="417" lrx="966" lry="435" />
+            <zone xml:id="riga21_pag31" ulx="585" uly="440" lrx="1089" lry="456" />
+            <zone xml:id="riga22_pag31" ulx="583" uly="457" lrx="1091" lry="478" />
+            <zone xml:id="riga23_pag31" ulx="582" uly="482" lrx="1089" lry="501" />
+            <zone xml:id="riga24_pag31" ulx="582" uly="504" lrx="1089" lry="522" />
+            <zone xml:id="riga25_pag31" ulx="583" uly="527" lrx="1090" lry="542" />
+            <zone xml:id="riga26_pag31" ulx="583" uly="543" lrx="1092" lry="565" />
+            <zone xml:id="riga27_pag31" ulx="583" uly="569" lrx="1089" lry="586" />
+            <zone xml:id="riga28_pag31" ulx="581" uly="588" lrx="1094" lry="610" />
+            <zone xml:id="riga29_pag31" ulx="583" uly="613" lrx="1091" lry="630" />
+            <zone xml:id="riga30_pag31" ulx="585" uly="634" lrx="1087" lry="651" />
+            <zone xml:id="riga31_pag31" ulx="583" uly="652" lrx="1091" lry="675" />
+            <zone xml:id="riga32_pag31" ulx="583" uly="678" lrx="1093" lry="694" />
+            <zone xml:id="riga33_pag31" ulx="586" uly="697" lrx="1088" lry="718" />
+            <zone xml:id="riga34_pag31" ulx="585" uly="720" lrx="1093" lry="741" />
+            <zone xml:id="riga35_pag31" ulx="586" uly="744" lrx="1093" lry="762" />
+            <zone xml:id="riga36_pag31" ulx="586" uly="761" lrx="1093" lry="784" />
+            <zone xml:id="riga37_pag31" ulx="587" uly="784" lrx="1093" lry="804" />
+            <zone xml:id="riga38_pag31" ulx="587" uly="807" lrx="1090" lry="827" />
+            <zone xml:id="riga39_pag31" ulx="586" uly="831" lrx="1094" lry="847" />
+            <zone xml:id="riga40_pag31" ulx="587" uly="848" lrx="1092" lry="870" />
+            <zone xml:id="riga41_pag31" ulx="584" uly="872" lrx="1092" lry="891" />
+            <zone xml:id="riga42_pag31" ulx="585" uly="898" lrx="1095" lry="914" />
+            <zone xml:id="riga43_pag31" ulx="586" uly="913" lrx="1092" lry="936" />
+            <zone xml:id="riga44_pag31" ulx="588" uly="942" lrx="1092" lry="960" />
+            <zone xml:id="riga45_pag31" ulx="586" uly="963" lrx="1094" lry="979" />
+            <zone xml:id="riga46_pag31" ulx="587" uly="980" lrx="1091" lry="1000" />
+            <zone xml:id="riga47_pag31" ulx="586" uly="1003" lrx="1090" lry="1022" />
+            <zone xml:id="riga48_pag31" ulx="590" uly="1026" lrx="1092" lry="1047" />
+            <zone xml:id="riga49_pag31" ulx="588" uly="1052" lrx="1091" lry="1070" />
+            <zone xml:id="riga50_pag31" ulx="589" uly="1075" lrx="1094" lry="1089" />
+            <zone xml:id="riga51_pag31" ulx="589" uly="1093" lrx="1095" lry="1112" />
+            <zone xml:id="riga52_pag31" ulx="591" uly="1113" lrx="1098" lry="1135" />
+            <zone xml:id="riga53_pag31" ulx="589" uly="1136" lrx="1096" lry="1155" />
+            <zone xml:id="riga54_pag31" ulx="589" uly="1157" lrx="911" lry="1175" />
+            <zone xml:id="riga55_pag31" ulx="590" uly="1178" lrx="1098" lry="1199" />
+            <zone xml:id="riga56_pag31" ulx="590" uly="1201" lrx="1096" lry="1222" />
+            <zone xml:id="riga57_pag31" ulx="592" uly="1223" lrx="1095" lry="1242" />
+            <zone xml:id="riga58_pag31" ulx="591" uly="1244" lrx="1095" lry="1263" />
+            <zone xml:id="riga59_pag31" ulx="592" uly="1267" lrx="1097" lry="1291" />
+            <zone xml:id="riga60_pag31" ulx="594" uly="1291" lrx="1098" lry="1305" />
+            <zone xml:id="riga61_pag31" ulx="594" uly="1309" lrx="1097" lry="1329" />
+            <zone xml:id="riga62_pag31" ulx="594" uly="1334" lrx="1096" lry="1350" />
+            <zone xml:id="riga63_pag31" ulx="592" uly="1352" lrx="1098" lry="1371" />
+            <zone xml:id="riga64_pag31" ulx="594" uly="1375" lrx="706" lry="1393" />
+            <zone xml:id="riga65_pag31" ulx="591" uly="1397" lrx="1097" lry="1412" />
+            <zone xml:id="riga66_pag31" ulx="593" uly="1418" lrx="1101" lry="1436" />
+            <zone xml:id="riga67_pag31" ulx="592" uly="1439" lrx="1104" lry="1459" />
+            <zone xml:id="riga68_pag31" ulx="597" uly="1463" lrx="1100" lry="1479" />
+            <zone xml:id="riga69_pag31" ulx="591" uly="1484" lrx="1100" lry="1498" />
+            <zone xml:id="riga70_pag31" ulx="590" uly="1502" lrx="1101" lry="1522" />
+            <zone xml:id="riga71_pag31" ulx="594" uly="1525" lrx="1101" lry="1543" />
+
+
+
+
+      </surface>
+
+      <!-- PAGINA 32 -->
+      <surface xml:id="pagina32" n="32">
+            <graphic url='Bagheot1.png' width='1128px' height='1734px' />
+            <zone xml:id="riga72_pag31" ulx="51" uly="84" lrx="561" lry="106" />
+            <zone xml:id="riga73_pag31" ulx="53" uly="108" lrx="559" lry="126" />
+            <zone xml:id="riga74_pag31" ulx="54" uly="133" lrx="559" lry="147" />
+            <zone xml:id="riga75_pag31" ulx="54" uly="152" lrx="558" lry="170" />
+            <zone xml:id="riga76_pag31" ulx="54" uly="175" lrx="560" lry="192" />
+            <zone xml:id="riga77_pag31" ulx="55" uly="195" lrx="561" lry="212" />
+            <zone xml:id="riga78_pag31" ulx="55" uly="213" lrx="563" lry="235" />
+            <zone xml:id="riga79_pag31" ulx="54" uly="239" lrx="558" lry="255" />
+            <zone xml:id="riga80_pag31" ulx="54" uly="259" lrx="560" lry="276" />
+            <zone xml:id="riga81_pag31" ulx="53" uly="281" lrx="562" lry="299" />
+            <zone xml:id="riga82_pag31" ulx="56" uly="300" lrx="562" lry="321" />
+            <zone xml:id="riga83_pag31" ulx="54" uly="323" lrx="561" lry="340" />
+            <zone xml:id="riga84_pag31" ulx="55" uly="345" lrx="559" lry="364" />
+            <zone xml:id="riga85_pag31" ulx="56" uly="368" lrx="563" lry="382" />
+            <zone xml:id="riga86_pag31" ulx="55" uly="387" lrx="562" lry="409" />
+            <zone xml:id="riga87_pag31" ulx="55" uly="411" lrx="560" lry="429" />
+            <zone xml:id="riga88_pag31" ulx="54" uly="433" lrx="563" lry="448" />
+            <zone xml:id="riga89_pag31" ulx="52" uly="454" lrx="563" lry="473" />
+            <zone xml:id="riga90_pag31" ulx="52" uly="472" lrx="563" lry="493" />
+            <zone xml:id="riga91_pag31" ulx="54" uly="495" lrx="562" lry="514" />
+            <zone xml:id="riga92_pag31" ulx="55" uly="519" lrx="562" lry="534" />
+            <zone xml:id="riga93_pag31" ulx="52" uly="536" lrx="462" lry="562" />
+
+
+
+
+
+      </surface>
+
+
+      <!-- VINCENZO CAMPANILE -->
+
+      <surface xml:id="pagina32_2" n="32">
+            <graphic url='vincenzo_campanile.png' width='1128px' height='1734px' />
+            <zone xml:id="titolo_r1_pag32_2" ulx="62" uly="584" lrx="564" lry="606" />
+            <zone xml:id="titolo_r2_pag32_2" ulx="89" uly="609" lrx="360" lry="627" />
+            <zone xml:id="riga1_pag32_2" ulx="52" uly="581" lrx="562" lry="601" />
+            <zone xml:id="riga2_pag32_2" ulx="77" uly="603" lrx="365" lry="623" />
+            <zone xml:id="riga3_pag32_2" ulx="51" uly="629" lrx="560" lry="648" />
+            <zone xml:id="riga4_pag32_2" ulx="52" uly="651" lrx="565" lry="668" />
+            <zone xml:id="riga5_pag32_2" ulx="55" uly="672" lrx="562" lry="690" />
+            <zone xml:id="riga6_pag32_2" ulx="54" uly="693" lrx="562" lry="715" />
+            <zone xml:id="riga7_pag32_2" ulx="52" uly="717" lrx="560" lry="735" />
+            <zone xml:id="riga8_pag32_2" ulx="54" uly="737" lrx="562" lry="755" />
+            <zone xml:id="riga9_pag32_2" ulx="55" uly="764" lrx="562" lry="777" />
+            <zone xml:id="riga10_pag32_2" ulx="58" uly="785" lrx="565" lry="798" />
+            <zone xml:id="riga11_pag32_2" ulx="56" uly="805" lrx="542" lry="820" />
+            <zone xml:id="riga12_pag32_2" ulx="76" uly="827" lrx="563" lry="842" />
+            <zone xml:id="riga13_pag32_2" ulx="58" uly="849" lrx="561" lry="864" />
+            <zone xml:id="riga14_pag32_2" ulx="55" uly="867" lrx="563" lry="887" />
+            <zone xml:id="riga15_pag32_2" ulx="54" uly="891" lrx="560" lry="910" />
+            <zone xml:id="riga16_pag32_2" ulx="57" uly="913" lrx="563" lry="930" />
+            <zone xml:id="riga17_pag32_2" ulx="57" uly="932" lrx="562" lry="952" />
+            <zone xml:id="riga18_pag32_2" ulx="58" uly="954" lrx="562" lry="975" />
+            <zone xml:id="riga19_pag32_2" ulx="54" uly="978" lrx="563" lry="994" />
+            <zone xml:id="riga20_pag32_2" ulx="58" uly="998" lrx="562" lry="1018" />
+            <zone xml:id="riga21_pag32_2" ulx="58" uly="1022" lrx="565" lry="1039" />
+            <zone xml:id="riga23_pag32_2" ulx="60" uly="1043" lrx="561" lry="1061" />
+            <zone xml:id="riga24_pag32_2" ulx="59" uly="1064" lrx="562" lry="1083" />
+            <zone xml:id="riga25_pag32_2" ulx="59" uly="1084" lrx="563" lry="1105" />
+            <zone xml:id="riga26_pag32_2" ulx="60" uly="1106" lrx="560" lry="1126" />
+            <zone xml:id="riga27_pag32_2" ulx="60" uly="1129" lrx="560" lry="1147" />
+            <zone xml:id="riga28_pag32_2" ulx="60" uly="1148" lrx="565" lry="1167" />
+            <zone xml:id="riga29_pag32_2" ulx="63" uly="1173" lrx="563" lry="1189" />
+            <zone xml:id="riga30_pag32_2" ulx="58" uly="1191" lrx="563" lry="1213" />
+            <zone xml:id="riga31_pag32_2" ulx="59" uly="1216" lrx="355" lry="1232" />
+            <zone xml:id="riga32_pag32_2" ulx="75" uly="1233" lrx="563" lry="1254" />
+            <zone xml:id="riga33_pag32_2" ulx="56" uly="1257" lrx="562" lry="1276" />
+            <zone xml:id="riga34_pag32_2" ulx="57" uly="1279" lrx="565" lry="1298" />
+            <zone xml:id="riga35_pag32_2" ulx="55" uly="1301" lrx="195" lry="1316" />
+            <zone xml:id="riga36_pag32_2" ulx="83" uly="1318" lrx="563" lry="1340" />
+            <zone xml:id="riga37_pag32_2" ulx="56" uly="1342" lrx="564" lry="1363" />
+            <zone xml:id="riga38_pag32_2" ulx="59" uly="1366" lrx="562" lry="1385" />
+            <zone xml:id="riga39_pag32_2" ulx="57" uly="1388" lrx="562" lry="1406" />
+            <zone xml:id="riga40_pag32_2" ulx="58" uly="1408" lrx="565" lry="1423" />
+            <zone xml:id="riga41_pag32_2" ulx="61" uly="1427" lrx="562" lry="1445" />
+            <zone xml:id="riga42_pag32_2" ulx="57" uly="1450" lrx="562" lry="1471" />
+            <zone xml:id="riga43_pag32_2" ulx="56" uly="1474" lrx="179" lry="1490" />
+            <zone xml:id="riga44_pag32_2" ulx="63" uly="1494" lrx="562" lry="1510" />
+            <zone xml:id="riga45_pag32_2" ulx="56" uly="1513" lrx="562" lry="1534" />
+            <zone xml:id="riga46_pag32_2" ulx="576" uly="85" lrx="1087" lry="103" />
+            <zone xml:id="riga47_pag32_2" ulx="576" uly="107" lrx="1088" lry="127" />
+            <zone xml:id="riga48_pag32_2" ulx="573" uly="134" lrx="1086" lry="148" />
+            <zone xml:id="riga49_pag32_2" ulx="578" uly="150" lrx="1084" lry="168" />
+            <zone xml:id="riga50_pag32_2" ulx="580" uly="173" lrx="1088" lry="192" />
+            <zone xml:id="riga51_pag32_2" ulx="577" uly="194" lrx="1083" lry="210" />
+            <zone xml:id="riga52_pag32_2" ulx="577" uly="216" lrx="1086" lry="234" />
+            <zone xml:id="riga53_pag32_2" ulx="578" uly="238" lrx="1084" lry="255" />
+            <zone xml:id="riga54_pag32_2" ulx="579" uly="262" lrx="1086" lry="275" />
+            <zone xml:id="riga55_pag32_2" ulx="578" uly="280" lrx="1042" lry="298" />
+            <zone xml:id="riga56_pag32_2" ulx="598" uly="301" lrx="1091" lry="321" />
+            <zone xml:id="riga57_pag32_2" ulx="576" uly="326" lrx="1089" lry="341" />
+            <zone xml:id="riga58_pag32_2" ulx="578" uly="346" lrx="1084" lry="363" />
+            <zone xml:id="riga59_pag32_2" ulx="579" uly="367" lrx="1083" lry="384" />
+            <zone xml:id="riga60_pag32_2" ulx="578" uly="388" lrx="1087" lry="409" />
+            <zone xml:id="riga61_pag32_2" ulx="576" uly="410" lrx="1087" lry="428" />
+            <zone xml:id="riga62_pag32_2" ulx="577" uly="434" lrx="1091" lry="450" />
+            <zone xml:id="riga63_pag32_2" ulx="580" uly="455" lrx="1084" lry="473" />
+            <zone xml:id="riga64_pag32_2" ulx="579" uly="474" lrx="1089" lry="494" />
+            <zone xml:id="riga65_pag32_2" ulx="580" uly="498" lrx="1081" lry="518" />
+            <zone xml:id="riga66_pag32_2" ulx="578" uly="518" lrx="1084" lry="537" />
+            <zone xml:id="riga67_pag32_2" ulx="578" uly="542" lrx="1087" lry="563" />
+            <zone xml:id="riga68_pag32_2" ulx="578" uly="563" lrx="1088" lry="581" />
+            <zone xml:id="riga69_pag32_2" ulx="581" uly="584" lrx="1087" lry="600" />
+            <zone xml:id="riga70_pag32_2" ulx="581" uly="605" lrx="1089" lry="626" />
+            <zone xml:id="riga71_pag32_2" ulx="580" uly="626" lrx="658" lry="643" />
+            <zone xml:id="riga72_pag32_2" ulx="592" uly="647" lrx="1088" lry="666" />
+            <zone xml:id="riga73_pag32_2" ulx="579" uly="668" lrx="1086" lry="688" />
+            <zone xml:id="riga74_pag32_2" ulx="582" uly="693" lrx="1086" lry="710" />
+            <zone xml:id="riga75_pag32_2" ulx="581" uly="713" lrx="1090" lry="732" />
+            <zone xml:id="riga76_pag32_2" ulx="581" uly="736" lrx="1086" lry="753" />
+            <zone xml:id="riga77_pag32_2" ulx="580" uly="756" lrx="1089" lry="774" />
+            <zone xml:id="riga78_pag32_2" ulx="581" uly="774" lrx="642" lry="792" />
+            <zone xml:id="riga79_pag32_2" ulx="597" uly="798" lrx="1088" lry="815" />
+            <zone xml:id="riga80_pag32_2" ulx="576" uly="820" lrx="1087" lry="840" />
+            <zone xml:id="riga81_pag32_2" ulx="579" uly="842" lrx="1088" lry="861" />
+            <zone xml:id="riga82_pag32_2" ulx="579" uly="865" lrx="752" lry="880" />
+            <zone xml:id="riga83_pag32_2" ulx="599" uly="883" lrx="1094" lry="904" />
+            <zone xml:id="riga84_pag32_2" ulx="580" uly="908" lrx="1088" lry="924" />
+            <zone xml:id="riga85_pag32_2" ulx="581" uly="931" lrx="1086" lry="946" />
+            <zone xml:id="riga86_pag32_2" ulx="581" uly="950" lrx="1091" lry="967" />
+            <zone xml:id="riga87_pag32_2" ulx="582" uly="972" lrx="1090" lry="989" />
+            <zone xml:id="riga88_pag32_2" ulx="578" uly="990" lrx="1088" lry="1013" />
+            <zone xml:id="riga89_pag32_2" ulx="579" uly="1016" lrx="1090" lry="1032" />
+            <zone xml:id="riga90_pag32_2" ulx="579" uly="1035" lrx="821" lry="1058" />
+
+
+
+
+
+      </surface>
+
+      <!-- RIVISTE FRANCESI -->
+
+      <surface xml:id="pagina33" n="33">
+            <graphic url='riviste_francesi.png' width='1128px' height='1734px' />
+            <zone xml:id="riga1_pag33" ulx="202" uly="101" lrx="428" lry="127" />
+            <zone xml:id="riga2_pag33" ulx="147" uly="128" lrx="476" lry="152" />
+            <zone xml:id="riga3_pag33" ulx="91" uly="150" lrx="568" lry="173" />
+            <zone xml:id="riga4_pag33" ulx="58" uly="174" lrx="572" lry="198" />
+            <zone xml:id="riga5_pag33" ulx="59" uly="199" lrx="567" lry="218" />
+            <zone xml:id="riga6_pag33" ulx="61" uly="219" lrx="568" lry="240" />
+            <zone xml:id="riga7_pag33" ulx="59" uly="243" lrx="567" lry="263" />
+            <zone xml:id="riga8_pag33" ulx="60" uly="264" lrx="565" lry="283" />
+            <zone xml:id="riga9_pag33" ulx="59" uly="286" lrx="568" lry="305" />
+            <zone xml:id="riga10_pag33" ulx="59" uly="307" lrx="567" lry="326" />
+            <zone xml:id="riga11_pag33" ulx="59" uly="329" lrx="567" lry="345" />
+            <zone xml:id="riga12_pag33" ulx="62" uly="350" lrx="566" lry="370" />
+            <zone xml:id="riga13_pag33" ulx="61" uly="375" lrx="568" lry="390" />
+            <zone xml:id="riga14_pag33" ulx="61" uly="392" lrx="566" lry="414" />
+            <zone xml:id="riga15_pag33" ulx="61" uly="416" lrx="566" lry="435" />
+            <zone xml:id="riga16_pag33" ulx="62" uly="437" lrx="567" lry="456" />
+            <zone xml:id="riga17_pag33" ulx="62" uly="459" lrx="568" lry="479" />
+            <zone xml:id="riga18_pag33" ulx="62" uly="459" lrx="568" lry="479" />
+            <zone xml:id="riga19_pag33" ulx="64" uly="481" lrx="568" lry="500" />
+            <zone xml:id="riga20_pag33" ulx="64" uly="504" lrx="569" lry="521" />
+            <zone xml:id="riga21_pag33" ulx="62" uly="524" lrx="570" lry="542" />
+            <zone xml:id="riga22_pag33" ulx="63" uly="544" lrx="570" lry="565" />
+            <zone xml:id="riga23_pag33" ulx="60" uly="567" lrx="568" lry="586" />
+            <zone xml:id="riga24_pag33" ulx="61" uly="591" lrx="569" lry="610" />
+            <zone xml:id="riga25_pag33" ulx="62" uly="613" lrx="567" lry="629" />
+            <zone xml:id="riga26_pag33" ulx="62" uly="632" lrx="568" lry="647" />
+            <zone xml:id="riga27_pag33" ulx="60" uly="650" lrx="569" lry="670" />
+            <zone xml:id="riga28_pag33" ulx="62" uly="672" lrx="524" lry="691" />
+            <zone xml:id="riga29_pag33" ulx="80" uly="694" lrx="568" lry="712" />
+            <zone xml:id="riga30_pag33" ulx="61" uly="717" lrx="569" lry="736" />
+            <zone xml:id="riga31_pag33" ulx="62" uly="744" lrx="570" lry="758" />
+            <zone xml:id="riga32_pag33" ulx="62" uly="760" lrx="568" lry="778" />
+            <zone xml:id="riga33_pag33" ulx="59" uly="782" lrx="566" lry="802" />
+            <zone xml:id="riga34_pag33" ulx="64" uly="807" lrx="572" lry="824" />
+            <zone xml:id="riga35_pag33" ulx="62" uly="829" lrx="568" lry="847" />
+            <zone xml:id="riga36_pag33" ulx="64" uly="849" lrx="570" lry="869" />
+            <zone xml:id="riga37_pag33" ulx="63" uly="872" lrx="568" lry="887" />
+            <zone xml:id="riga38_pag33" ulx="66" uly="893" lrx="571" lry="910" />
+            <zone xml:id="riga39_pag33" ulx="62" uly="913" lrx="569" lry="932" />
+            <zone xml:id="riga40_pag33" ulx="62" uly="934" lrx="570" lry="956" />
+            <zone xml:id="riga41_pag33" ulx="63" uly="958" lrx="571" lry="976" />
+            <zone xml:id="riga42_pag33" ulx="64" uly="978" lrx="569" lry="999" />
+            <zone xml:id="riga43_pag33" ulx="64" uly="1003" lrx="568" lry="1018" />
+            <zone xml:id="riga44_pag33" ulx="65" uly="1023" lrx="570" lry="1040" />
+            <zone xml:id="riga45_pag33" ulx="66" uly="1043" lrx="570" lry="1065" />
+            <zone xml:id="riga46_pag33" ulx="67" uly="1066" lrx="571" lry="1085" />
+            <zone xml:id="riga47_pag33" ulx="66" uly="1086" lrx="569" lry="1103" />
+            <zone xml:id="riga48_pag33" ulx="66" uly="1108" lrx="572" lry="1126" />
+            <zone xml:id="riga49_pag33" ulx="65" uly="1129" lrx="572" lry="1148" />
+            <zone xml:id="riga50_pag33" ulx="66" uly="1149" lrx="570" lry="1171" />
+            <zone xml:id="riga51_pag33" ulx="65" uly="1173" lrx="571" lry="1192" />
+            <zone xml:id="riga52_pag33" ulx="65" uly="1194" lrx="573" lry="1214" />
+            <zone xml:id="riga53_pag33" ulx="65" uly="1216" lrx="477" lry="1234" />
+            <zone xml:id="riga54_pag33" ulx="69" uly="1236" lrx="572" lry="1256" />
+            <zone xml:id="riga55_pag33" ulx="65" uly="1259" lrx="572" lry="1278" />
+            <zone xml:id="riga56_pag33" ulx="66" uly="1278" lrx="572" lry="1299" />
+            <zone xml:id="riga57_pag33" ulx="66" uly="1298" lrx="571" lry="1319" />
+            <zone xml:id="riga58_pag33" ulx="66" uly="1323" lrx="571" lry="1340" />
+            <zone xml:id="riga59_pag33" ulx="67" uly="1344" lrx="567" lry="1363" />
+            <zone xml:id="riga60_pag33" ulx="67" uly="1365" lrx="571" lry="1382" />
+            <zone xml:id="riga61_pag33" ulx="66" uly="1386" lrx="573" lry="1405" />
+            <zone xml:id="riga62_pag33" ulx="67" uly="1407" lrx="573" lry="1427" />
+            <zone xml:id="riga63_pag33" ulx="66" uly="1428" lrx="572" lry="1449" />
+            <zone xml:id="riga64_pag33" ulx="65" uly="1451" lrx="570" lry="1472" />
+            <zone xml:id="riga65_pag33" ulx="65" uly="1472" lrx="569" lry="1491" />
+            <zone xml:id="riga66_pag33" ulx="66" uly="1493" lrx="569" lry="1513" />
+            <zone xml:id="riga67_pag33" ulx="66" uly="1513" lrx="570" lry="1535" />
+            <zone xml:id="riga68_pag33" ulx="585" uly="102" lrx="1096" lry="121" />
+            <zone xml:id="riga69_pag33" ulx="584" uly="124" lrx="1096" lry="142" />
+            <zone xml:id="riga70_pag33" ulx="584" uly="145" lrx="1096" lry="164" />
+            <zone xml:id="riga71_pag33" ulx="585" uly="169" lrx="1095" lry="187" />
+            <zone xml:id="riga72_pag33" ulx="583" uly="189" lrx="1092" lry="208" />
+            <zone xml:id="riga73_pag33" ulx="583" uly="211" lrx="1097" lry="229" />
+            <zone xml:id="riga74_pag33" ulx="584" uly="232" lrx="1094" lry="249" />
+            <zone xml:id="riga75_pag33" ulx="585" uly="252" lrx="1094" lry="271" />
+            <zone xml:id="riga76_pag33" ulx="587" uly="279" lrx="1093" lry="295" />
+            <zone xml:id="riga77_pag33" ulx="585" uly="298" lrx="1095" lry="315" />
+            <zone xml:id="riga78_pag33" ulx="586" uly="316" lrx="1091" lry="336" />
+            <zone xml:id="riga79_pag33" ulx="585" uly="339" lrx="1094" lry="356" />
+            <zone xml:id="riga80_pag33" ulx="585" uly="357" lrx="1096" lry="380" />
+            <zone xml:id="riga81_pag33" ulx="585" uly="382" lrx="1095" lry="396" />
+            <zone xml:id="riga82_pag33" ulx="585" uly="403" lrx="1096" lry="421" />
+            <zone xml:id="riga83_pag33" ulx="587" uly="425" lrx="1095" lry="442" />
+            <zone xml:id="riga84_pag33" ulx="587" uly="447" lrx="1094" lry="464" />
+            <zone xml:id="riga85_pag33" ulx="586" uly="466" lrx="1095" lry="482" />
+            <zone xml:id="riga86_pag33" ulx="585" uly="487" lrx="1095" lry="507" />
+            <zone xml:id="riga87_pag33" ulx="587" uly="510" lrx="1097" lry="527" />
+            <zone xml:id="riga88_pag33" ulx="588" uly="533" lrx="1094" lry="550" />
+            <zone xml:id="riga89_pag33" ulx="586" uly="553" lrx="1095" lry="570" />
+            <zone xml:id="riga90_pag33" ulx="586" uly="574" lrx="1094" lry="593" />
+            <zone xml:id="riga91_pag33" ulx="586" uly="596" lrx="1096" lry="616" />
+            <zone xml:id="riga92_pag33" ulx="586" uly="618" lrx="1094" lry="633" />
+            <zone xml:id="riga93_pag33" ulx="589" uly="639" lrx="1096" lry="654" />
+            <zone xml:id="riga94_pag33" ulx="587" uly="657" lrx="1095" lry="680" />
+            <zone xml:id="riga95_pag33" ulx="587" uly="684" lrx="1097" lry="700" />
+            <zone xml:id="riga96_pag33" ulx="589" uly="701" lrx="1097" lry="723" />
+            <zone xml:id="riga97_pag33" ulx="588" uly="727" lrx="1096" lry="743" />
+            <zone xml:id="riga98_pag33" ulx="586" uly="746" lrx="1095" lry="765" />
+            <zone xml:id="riga99_pag33" ulx="587" uly="769" lrx="1097" lry="788" />
+            <zone xml:id="riga100_pag33" ulx="589" uly="791" lrx="1098" lry="810" />
+            <zone xml:id="riga101_pag33" ulx="587" uly="814" lrx="1099" lry="828" />
+            <zone xml:id="riga102_pag33" ulx="585" uly="834" lrx="1095" lry="850" />
+            <zone xml:id="riga103_pag33" ulx="588" uly="856" lrx="1094" lry="875" />
+            <zone xml:id="riga104_pag33" ulx="588" uly="873" lrx="1096" lry="895" />
+            <zone xml:id="riga105_pag33" ulx="591" uly="900" lrx="1095" lry="916" />
+            <zone xml:id="riga106_pag33" ulx="589" uly="920" lrx="1097" lry="936" />
+            <zone xml:id="riga107_pag33" ulx="589" uly="943" lrx="1097" lry="959" />
+            <zone xml:id="riga108_pag33" ulx="591" uly="964" lrx="1097" lry="981" />
+            <zone xml:id="riga109_pag33" ulx="591" uly="983" lrx="1092" lry="1001" />
+            <zone xml:id="riga110_pag33" ulx="592" uly="1004" lrx="1099" lry="1023" />
+            <zone xml:id="riga111_pag33" ulx="590" uly="1027" lrx="1098" lry="1043" />
+            <zone xml:id="riga112_pag33" ulx="590" uly="1048" lrx="1098" lry="1067" />
+            <zone xml:id="riga113_pag33" ulx="588" uly="1071" lrx="1096" lry="1085" />
+            <zone xml:id="riga114_pag33" ulx="588" uly="1089" lrx="1094" lry="1108" />
+            <zone xml:id="riga115_pag33" ulx="589" uly="1115" lrx="1096" lry="1128" />
+            <zone xml:id="riga116_pag33" ulx="587" uly="1134" lrx="1098" lry="1151" />
+            <zone xml:id="riga117_pag33" ulx="588" uly="1151" lrx="1097" lry="1175" />
+            <zone xml:id="riga118_pag33" ulx="587" uly="1177" lrx="1095" lry="1194" />
+            <zone xml:id="riga119_pag33" ulx="587" uly="1199" lrx="1097" lry="1214" />
+            <zone xml:id="riga120_pag33" ulx="587" uly="1218" lrx="1097" lry="1238" />
+            <zone xml:id="riga121_pag33" ulx="588" uly="1244" lrx="1094" lry="1259" />
+            <zone xml:id="riga122_pag33" ulx="587" uly="1263" lrx="1095" lry="1283" />
+            <zone xml:id="riga123_pag33" ulx="588" uly="1284" lrx="1097" lry="1300" />
+            <zone xml:id="riga124_pag33" ulx="590" uly="1307" lrx="1098" lry="1324" />
+            <zone xml:id="riga125_pag33" ulx="587" uly="1325" lrx="1095" lry="1346" />
+            <zone xml:id="riga126_pag33" ulx="587" uly="1350" lrx="1098" lry="1367" />
+            <zone xml:id="riga127_pag33" ulx="588" uly="1368" lrx="1098" lry="1387" />
+            <zone xml:id="riga128_pag33" ulx="591" uly="1391" lrx="1097" lry="1408" />
+            <zone xml:id="riga129_pag33" ulx="588" uly="1413" lrx="1097" lry="1430" />
+            <zone xml:id="riga130_pag33" ulx="587" uly="1433" lrx="1096" lry="1452" />
+            <zone xml:id="riga131_pag33" ulx="588" uly="1457" lrx="1094" lry="1472" />
+            <zone xml:id="riga132_pag33" ulx="589" uly="1475" lrx="1096" lry="1495" />
+            <zone xml:id="riga133_pag33" ulx="589" uly="1499" lrx="975" lry="1521" />
+
+
+
+
+
+      </surface>
+
+      <!-- LA RASSEGNA SETTIMANALE -->
+
+      <surface xml:id="pagina34" n="34">
+            <graphic url='rassegna_settimaale.png' width='1148px' height='1732px' />
+            <zone xml:id="riga1_pag34" ulx="175" uly="1073" lrx="486" lry="1095" />
+            <zone xml:id="riga2_pag34" ulx="163" uly="1096" lrx="499" lry="1111" />
+            <zone xml:id="riga3_pag34" ulx="103" uly="1117" lrx="584" lry="1136" />
+            <zone xml:id="riga4_pag34" ulx="78" uly="1139" lrx="585" lry="1155" />
+            <zone xml:id="riga5_pag34" ulx="77" uly="1159" lrx="585" lry="1173" />
+            <zone xml:id="riga6_pag34" ulx="78" uly="1175" lrx="583" lry="1194" />
+            <zone xml:id="riga7_pag34" ulx="77" uly="1196" lrx="584" lry="1213" />
+            <zone xml:id="riga8_pag34" ulx="79" uly="1214" lrx="583" lry="1230" />
+            <zone xml:id="riga9_pag34" ulx="79" uly="1234" lrx="582" lry="1253" />
+            <zone xml:id="riga10_pag34" ulx="77" uly="1254" lrx="582" lry="1273" />
+            <zone xml:id="riga11_pag34" ulx="77" uly="1274" lrx="584" lry="1294" />
+            <zone xml:id="riga12_pag34" ulx="78" uly="1293" lrx="582" lry="1313" />
+            <zone xml:id="riga13_pag34" ulx="75" uly="1313" lrx="586" lry="1331" />
+            <zone xml:id="riga14_pag34" ulx="78" uly="1332" lrx="584" lry="1350" />
+            <zone xml:id="riga15_pag34" ulx="78" uly="1351" lrx="583" lry="1368" />
+            <zone xml:id="riga16_pag34" ulx="76" uly="1370" lrx="585" lry="1388" />
+            <zone xml:id="riga17_pag34" ulx="76" uly="1388" lrx="280" lry="1406" />
+            <zone xml:id="riga18_pag34" ulx="176" uly="1414" lrx="497" lry="1434" />
+            <zone xml:id="riga19_pag34" ulx="95" uly="1433" lrx="584" lry="1456" />
+            <zone xml:id="riga20_pag34" ulx="76" uly="1460" lrx="583" lry="1477" />
+            <zone xml:id="riga21_pag34" ulx="73" uly="1477" lrx="582" lry="1496" />
+            <zone xml:id="riga22_pag34" ulx="74" uly="1497" lrx="583" lry="1514" />
+            <zone xml:id="riga23_pag34" ulx="74" uly="1515" lrx="584" lry="1536" />
+            <zone xml:id="riga24_pag34" ulx="73" uly="1536" lrx="582" lry="1553" />
+            <zone xml:id="riga25_pag34" ulx="598" uly="122" lrx="1109" lry="136" />
+            <zone xml:id="riga26_pag34" ulx="600" uly="141" lrx="1108" lry="155" />
+            <zone xml:id="riga27_pag34" ulx="600" uly="159" lrx="1108" lry="174" />
+            <zone xml:id="riga28_pag34" ulx="600" uly="175" lrx="1112" lry="193" />
+            <zone xml:id="riga29_pag34" ulx="597" uly="194" lrx="767" lry="215" />
+
+
+
+
+
+      </surface>
+
+</facsimile>
+
+<text>
+      <body>
+            <!-- ARTICOLO 1 -->
+            <div type="article" n="1" xml:lang="it" xml:id="Art1">
+                  <pb n="1" facs="#pag1" />
+                  <cb n="2"/>
+                  <head rend="uppercase">
+                        <lb facs="#titolo_art1"/>
+                        LA SETTIMANA.
+                  </head>
+                  <ab>
+                        <lb facs="#riga1_art1"/>
+                        <date>9 luglio.</date>
+                        <lb facs="#riga2_art1"/>
+            L'<choice>
+                        <abbr>on.</abbr>
+                        <expan>onorevole</expan>
+                  </choice>
+                  <persName>Grimaldi</persName>, nella terza ed ultima parte del suo discor-<lb break="no"/>
+            <lb facs="#riga3_art1"/>
+            so (3), preso a combattere specialmente i provvedimenti
+            <lb facs="#riga4_art1"/>
+            finanziari del <orgName>governo</orgName>, o a muovere obiezioni, contro coloro
+            <lb facs="#riga5_art1"/>
+            che vogliono abolire la tassa sul macinato, influenzati da con-<lb break="no"/>
+      <lb facs="#riga6_art1"/>
+            siderazioni politiche, e poco curanti del dissesto che sara' ca-<lb break="no"/>
+<lb facs="#riga7_art1"/>
+            gionato al nostro bilancio. Secondo L'<choice>
+<abbr>on.</abbr>
+<expan>onorevole</expan>
+</choice>
+<persName>Grimaldi</persName>la poli-<lb break="no"/>
+<lb facs="#riga8_art1"/>
+            tica finanziaria del <orgName>ministero</orgName> e della maggioranza dovra'
+<lb facs="#riga9_art1"/>
+            condurci a gravissimi danni. L'<choice>
+<abbr>on.</abbr>
+<expan>onorevole</expan>
+</choice>
+<persName>Berti Domenico</persName>, che
+<lb facs="#riga10_art1"/>
+            successe all'<choice>
+<abbr>on.</abbr>
+<expan>onorevole</expan>
+</choice>
+<persName>Grimaldi</persName>, fece un discorso (5) col quale egli
+<lb facs="#riga11_art1"/>
+            si distaccava dai suoi amici politici della <term>Destra</term>, imperoc­-<lb break="no"/>
+<lb facs="#riga12_art1"/>
+            che' con parole molto ascoltate sostenne per ragioni politi-<lb break="no"/>
+<lb facs="#riga13_art1"/>
+            che e sociali la necessita' dell'abolizione della tassa, la quale
+<lb facs="#riga14_art1"/>
+            allontana dal <orgName>governo</orgName> quelle classi infime delle popolazioni
+<lb facs="#riga15_art1"/>
+            che e' duopo sieno al <orgName>governo</orgName> di appoggio. Urge avvicinare
+<lb facs="#riga16_art1"/>
+            coteste classi ai proprietari con una legislazione che obbli-<lb break="no"/>
+<lb facs="#riga17_art1"/>
+            ghi altresi' la proprieta' ad esercitare quell'ufficio civile,
+<lb facs="#riga18_art1"/>
+            senza cui la proprieta' stessa non e' neppure legittima. Tocco
+<lb facs="#riga19_art1"/>
+            poi la parola al <roleName>ministro</roleName> delle finanze, il quale si preoccupo'
+<lb facs="#riga20_art1"/>
+            nella prima parte (5) di rispondere colla maggior precisione
+<lb facs="#riga21_art1"/>
+            di particolari alle obiezioni <choice>
+<abbr>on.</abbr>
+<expan>onorevole</expan>
+</choice>
+<persName>Grimaldi</persName>: e quindi nella
+<lb facs="#riga22_art1"/>
+            seconda, replicando specialmente agli <choice>
+<abbr>on.</abbr>
+<expan>onorevoli</expan>
+</choice>
+<persName>Corbetta</persName> e <persName>Perazzi</persName>
+<lb facs="#riga23_art1"/>
+            dimostro' la possibilita' dell'abolizione senza il pericolo di
+<lb facs="#riga24_art1"/>
+            compromettere il pareggio. Il <roleName>ministro</roleName> si mostro', come
+<lb facs="#riga25_art1"/>
+            altra volta, lucido ed abile espositore. L'<choice>
+<abbr>on.</abbr>
+<expan>onorevole</expan>
+</choice>
+<persName>Maurogonato</persName>,
+<lb facs="#riga26_art1"/>
+            che gli tenne dietro, si adopero' a combattere i calcoli del
+<lb facs="#riga27_art1"/>
+<roleName>ministro</roleName> ; enumero' tutte le spese e i bisogni reali del bi-<lb break="no"/>
+<lb facs="#riga28_art1"/>
+            lancio, e concluse che, volendo abolire il macinato, bisogna
+<lb facs="#riga29_art1"/>
+            sostituire altre tasse, anticipandone l'approvazione' purche'
+<lb facs="#riga30_art1"/>
+            ci sia il pareggio egli vede volentieri l'abolizione-del maci-<lb break="no"/>
+<lb facs="#riga31_art1"/>
+            nato. Chiusa la discussione generale, ebbe la parola (7) il
+<lb facs="#riga32_art1"/>
+            relatore <choice>
+<abbr>on.</abbr>
+<expan>onorevole</expan>
+</choice>
+<persName>Laporta</persName> che dal piu' al meno parafraso' la sua
+<lb facs="#riga33_art1"/>
+            propria relazione. Cominciarono gli ordini del giorno; l'<choice>
+<abbr>on.</abbr>
+<expan>onorevole</expan>
+</choice>
+<lb facs="#riga34_art1"/>
+<persName>Massari</persName> ne svolse uno contrario all'abolizione dipingendo
+<lb facs="#riga35_art1"/>
+            con neri colori un pauroso avvenire : quello dell'<choice>
+<abbr>on.</abbr>
+<expan>onorevole</expan>
+</choice>
+<persName>Sidney</persName>
+<lb facs="#riga36_art1"/>
+<persName> Sonnino</persName> era invece favorevole all'abolizione, che sosteneva
+<lb facs="#riga37_art1"/>
+            necessaria come un debito di giustizia dopo l'abolizione del
+<lb facs="#riga38_art1"/>
+            secondo palmento, e necessaria per ragioni sociali a pro­-<lb break="no"/>
+<lb facs="#riga39_art1"/>
+            posito delle quali espose le miserrime condizioni delle no­-<lb break="no"/>
+<lb facs="#riga40_art1"/>
+            stre popolazioni rurali; l' <choice>
+<abbr>on.</abbr>
+<expan>onorevole</expan>
+</choice>
+<persName>S. Sonnino</persName>, diversamente dal
+<lb facs="#riga41_art1"/>
+<orgName>ministero</orgName>, ammise che la mancanza totale della tassa del
+<pb n="2" facs="#pag2" />
+<cb n="1"/>
+
+<lb facs="#riga42_art1"/>
+            macinato debba produrre uno sbilancio, ma egli ritiene
+<lb facs="#riga43_art1"/>
+            che da ora a <date>1831</date> si possa se si vuole, provvedere e a questo
+<lb facs="#riga44_art1"/>
+            scopo dimostro che vi e' ancora in <placeName>Italia</placeName> materia imponibile,
+<lb facs="#riga45_art1"/>
+            specie se si volesse imporre una tassa sull'eutrata metta per­-<lb break="no"/>
+<lb facs="#riga46_art1"/>
+            sonale di ogni singolo cittadino, al disopra di ogni e qualun­-<lb break="no"/>
+<lb facs="#riga47_art1"/>
+            que altro imposta. Anche l'<choice>
+<abbr>on.</abbr>
+<expan>onorevole</expan>
+</choice>
+<persName>Branca</persName> sviluppo' una mozione
+<lb facs="#riga48_art1"/>
+            favorevole all'abolizione della tassa sul macinato; e dopo
+<lb facs="#riga49_art1"/>
+            di lui sorse (8) <choice>
+<abbr>on.</abbr>
+<expan>onorevole</expan>
+</choice>
+<persName>Luzzatti</persName> il quale con un lungo discorso,
+<lb facs="#riga50_art1"/>
+            osteggio' i provvedimenti finanziari del <orgName>ministero</orgName>. Disse che
+<lb facs="#riga51_art1"/>
+            lo sgravio del sale sarebbe stato assai piu' proficuo che l'abo-<lb break="no"/>
+<lb facs="#riga52_art1"/>
+            lizione del macinato, la quale puo' diventare illusoria pel 
+<lb facs="#riga53_art1"/>
+            modo con cui i Comuni gravano il dazio consumo. Parlo'
+<lb facs="#riga54_art1"/>
+            contro la tassa sul petrolio, e contro l'aumento di quella
+<lb facs="#riga55_art1"/>
+            sugli alcool, esponendo invece la proposta di una tassa di
+<lb facs="#riga56_art1"/>
+            licenza e di minuta vendita sulle bevande, sui caffe', bi-<lb break="no"/>
+<lb facs="#riga57_art1"/>
+            gliardi, ecc. In appoggio dei provvedimenti finanziari ven-<lb break="no"/>
+<lb facs="#riga58_art1"/>
+            nero gli ordini del giorno <persName>Pasquali</persName> e <persName>Toscanelli</persName> e parecchi
+<lb facs="#riga59_art1"/>
+            altri. Notevolissimo e molto ascoltato fu il discorso (9) del-<lb break="no"/>
+<lb facs="#riga60_art1"/>
+            l'<choice>
+<abbr>on.</abbr>
+<expan>onorevole</expan>
+</choice>
+<persName>Minghetti</persName>, che combatte' tutta la politica finanzia-<lb break="no"/>
+<lb facs="#riga61_art1"/>
+            ria del <orgName>Ministero</orgName>, e che concluse dicendo ch'egli ed i suoi
+<lb facs="#riga62_art1"/>
+            amici, avversari dell'abolizione, appena questa fosse dive-<lb break="no"/>
+<lb facs="#riga63_art1"/>
+            nuta legge, sarebbero i primi ad osservarla e ad invocarne
+<lb facs="#riga64_art1"/>
+            l'esecuzione.
+<lb facs="#riga65_art1"/>
+            Una compagnia italiana, di cui e' anima il <choice>
+<abbr>comm.</abbr>
+<expan>commendatore</expan>
+</choice>
+<persName>Ru-<lb break="no"/>
+<lb facs="#riga66_art1"/>
+            battino</persName>, si era da un pezzo posta in concorrenza con una com-<lb break="no"/>
+<lb facs="#riga67_art1"/>
+            pagnia francese per ottenere la concessione della ferrovia
+<lb facs="#riga68_art1"/>
+            della <placeName>Goletta</placeName> (<placeName>Tunisi</placeName>). Vi fu anche un incidente fra loro, che
+<lb facs="#riga69_art1"/>
+            venne dai magistrati inglesi risoluto favorevolmente agli 
+<lb facs="#riga70_art1"/>
+            interessi italiani, di modo che la <orgName>Compagnia italiana</orgName> ebbe (7)
+<lb facs="#riga71_art1"/>
+            definitivamente in aggiudicazione la detta ferrovia per
+<lb facs="#riga72_art1"/>
+<num>165</num> mila lire sterline. Questo fatto non e' senza importanza,
+<lb facs="#riga73_art1"/>
+            dacche' abbiamo scritto piu' d'una volta che la <placeName>Francia</placeName> ten-<lb break="no"/>
+<lb facs="#riga74_art1"/>
+            tava di far divenire francese la <placeName>Tunisia</placeName>, non con una
+<lb facs="#riga75_art1"/>
+            occupazione vera e propria, ma con una occupazione in-<lb break="no"/>
+<lb facs="#riga76_art1"/>
+            diretta, per via economica, colle strade ferrate che collegano
+<lb facs="#riga77_art1"/>
+            l'<placeName>Algeria</placeName> con quella <placeName>Reggenza</placeName>, coi capitali che v'impiegava
+<lb facs="#riga78_art1"/>
+            e vi spargeva. E noi intanto, per una mollezza imperdona-<lb break="no"/>
+<lb facs="#riga79_art1"/>
+            bile, perdevamo tutta la nostra antica influenza. Forse e'
+<lb facs="#riga80_art1"/>
+            un principio di volerla e poterla riacquistare il fatto che
+<lb facs="#riga81_art1"/>
+            abbiamo ora segnalato. Ma non bisogna addormentarsi.
+<lb facs="#riga82_art1"/>
+            In <placeName>Francia</placeName> la lotta per le <orgName type="religioso">congregazioni religiose</orgName> ferve
+<lb facs="#riga83_art1"/>
+            assai caldamente, ma sempre sul terreno legale, se si eccettua
+<lb facs="#riga84_art1"/>
+            qualche rara dimostrazione che ha rasentato gli eccessi. Alla 
+<lb facs="#riga85_art1"/>
+<orgName type="istituzione">Camera dei Deputati</orgName> il <roleName>ministro</roleName> ha subito in pace una filip-<lb break="no"/>
+<lb facs="#riga86_art1"/>
+            pica del <roleName>vescovo</roleName>
+<persName>Freppel</persName>. Al <orgName type="istituzione">Senato</orgName> la relazione che respin<lb break="no"/>
+<lb facs="#riga87_art1"/>
+            geva l'amnistia osservava che non e' questo il momento, men-<lb break="no"/>
+<lb facs="#riga88_art1"/>
+            tre si scacciano le congregazioni, di far rientrare gli assassini.
+<lb facs="#riga89_art1"/>
+            Dinanzi ai tribunali ricorrono i <orgName type="religioso">gesuiti</orgName>; e intanto il tribu-<lb break="no"/>
+<lb facs="#riga90_art1"/>
+            nale della <placeName>Senna</placeName>, nonostante l'opposizione del <roleName>prefetto di
+<lb facs="#riga91_art1"/>
+            polizia</roleName>, pare sia per ritenersi competente almeno per quanto
+<lb facs="#riga92_art1"/>
+            riguarda la <placeName>Casa</placeName>, se non per la <placeName>Cappella</placeName>.
+<lb facs="#riga93_art1"/>
+            La questione dell'amnistia pero' e' stata al <orgName type="istituzione">Senato</orgName> gra-<lb break="no"/>
+<lb facs="#riga94_art1"/>
+            vissima. <persName>Giulio Simon</persName> ha attaccato il <orgName type="governo">governo</orgName> a fondo in
+<lb facs="#riga95_art1"/>
+            mezzo agli applausi della <orgName type="politica">Destra</orgName> e di una gran parte del 
+<lb facs="#riga96_art1"/>
+<orgName type="politica">Centro</orgName>; ed un contro-progetto (<persName>Labiche</persName>, a cui il <orgName type="governo">governo</orgName>
+<lb facs="#riga97_art1"/>
+            si era associato), venne respinto; fu invece approvato con
+<lb facs="#riga98_art1"/>
+<num>143</num> voti contro <num>138</num> un emendamento <persName>Bozerian</persName> il quale ac-<lb break="no"/>
+<lb facs="#riga99_art1"/>
+            corda l'amnistia a tutti i condannati della <placeName>Comune</placeName>, ad ec-<lb break="no"/>
+<lb facs="#riga100_art1"/>
+            cezione degl'incendiari e degli assassini. Di qui una grande
+<lb facs="#riga101_art1"/>
+            guerra della stampa di <orgName type="politica">Destra</orgName> e moderata con quella di
+<lb facs="#riga102_art1"/>
+<orgName type="politica">Sinistra</orgName> piu' accentuata. Intanto il progetto e' tornato
+<lb facs="#riga103_art1"/>
+            alla <orgName type="istituzione">Camera</orgName> colla modificazione introdottavi dal <orgName type="istituzione">Senato</orgName>.
+<lb facs="#riga104_art1"/>
+            La <orgName>Commissione</orgName> propose l'approvazione in massima del con-<lb break="no"/>
+<lb facs="#riga105_art1"/>
+            tro-progetto <persName>Labiche</persName>, restringendo il termine accordato al
+<lb facs="#riga106_art1"/>
+<orgName type="governo">governo</orgName> per pronunziare le grazie al <date>14 luglio</date>, in luogo
+<lb facs="#riga107_art1"/>
+            di tre mesi; e la <orgName type="istituzione">Camera</orgName> approvo' (7). Si spera da molti che
+<cb n="2"/>
+
+<lb facs="#riga108_art1"/>
+            il <orgName>Senato</orgName> votera' la nuova proposta, tenendo conto della 
+<lb facs="#riga109_art1"/>
+            prova di conciliazione che la <orgName type="politica">Camera</orgName> ha voluto dargli.
+<lb facs="#riga110_art1"/>
+            Dopo la rottura delle relazioni diplomatiche fra il
+<lb facs="#riga111_art1"/>
+<placeName>Belgio</placeName> e il <placeName>Vaticano</placeName>, si e' pubblicata la lettera del <date>5 giugno</date>
+<lb facs="#riga112_art1"/>
+            diretto dal <roleName>ministro degli affari esteri</roleName> belga al rappresen-<lb break="no"/>
+<lb facs="#riga113_art1"/>
+            tante di quel paese presso la <orgName type="istituzione">
+<choice>
+<abbr>S.</abbr>
+<expan>Santa</expan>
+</choice>S. Sede</orgName>. La lettara, annun-<lb break="no"/>
+<lb facs="#riga114_art1"/>
+            ziando la rottura delle relazioni diplomatiche, dice che il
+<lb facs="#riga115_art1"/>
+            mantenimento della <orgName type="istituzione">Legazione</orgName> era possibile ed anche utile
+<lb facs="#riga116_art1"/>
+            finche' il <persName>Papa</persName> rimaneva estraneo alle lotte suscitate nel
+<lb facs="#riga117_art1"/>
+<placeName>Belgio</placeName> dal clero contro le leggi ed istituzioni nazionali, ed
+<lb facs="#riga118_art1"/>
+            adoperava la sua inflenza per moderare coteste lotte. Ma
+<lb facs="#riga119_art1"/>
+            Ma il mantenimento della <orgName type="istituzione">Legazione</orgName> diventa inutile dal mo-<lb break="no"/>
+<lb facs="#riga120_art1"/>
+            mento che il <persName type="role">Papa</persName> incoraggia la resistenza contro le leggi 
+<lb facs="#riga121_art1"/>
+            dello <orgName>Stato</orgName>. Dopo avere considerato come eccessive ed inop-<lb break="no"/>
+<lb facs="#riga122_art1"/>
+            portune le misure prese dai <roleName type="religioso">vescovi</roleName> riguardo alle leggi
+<lb facs="#riga123_art1"/>
+            scolastiche, il <persName>Papa</persName> con un cambiamento inaudito, copre
+<lb facs="#riga124_art1"/>
+            ora colla sua approvazione le istruzioni vescovili. In tali
+<lb facs="#riga125_art1"/>
+            condizioni il <orgName type="politica">Governo</orgName> crede suo dovere di richiamare la <orgName type="istituzione">Le-<lb break="no"/>
+<lb facs="#riga126_art1"/>
+            gazione</orgName>. Ouesti stessi concetti sono confermati nella lettera,
+<lb facs="#riga127_art1"/>
+            scritta in forma molto risoluta, con cui nel giorno <date>30 giugno</date>
+<lb facs="#riga128_art1"/>
+            il <roleName>ministro</roleName>
+<persName type="real">Fre're Orban</persName> rimetteva al <roleName type="religioso">Nunzio</roleName> i suoi passa-<lb break="no"/>
+<lb facs="#riga129_art1"/>
+            porti.
+<lb facs="#riga130_art1"/>
+            Alla <orgName>Camera dei Comuni</orgName>,<persName>Gladstone</persName> dichiaro' che nel
+<lb facs="#riga131_art1"/>
+            progetto del bilancio avrebbo proposta la soppressione de-<lb break="no"/>
+<lb facs="#riga132_art1"/>
+            gli articoli relativi ai diritti sui vini; quelli stessi articoli
+<lb facs="#riga133_art1"/>
+            ch'egli patrocinava tanto caldamente poche settimane or
+<lb facs="#riga134_art1"/>
+            sono. Pare che lo abbiano costretto a modificare le sue idee
+<lb facs="#riga135_art1"/>
+            non tanto le obiezioni degli avversari parlamentari, quanto
+<lb facs="#riga136_art1"/>
+            quanto le obiezioni fatte dalla <placeName>Francia</placeName> stessa, ch'egli intendeva
+<lb facs="#riga137_art1"/>
+            favorire con quei dazi, e dalle altre <orgName type="politica">potenze</orgName> interessate alla
+<lb facs="#riga138_art1"/>
+            i esportaziona dei loro vini, in specio la <placeName>Spagna</placeName>, il <placeName>Portogallo</placeName>
+<lb facs="#riga139_art1"/>
+            e l'<placeName>Italia</placeName>.
+<lb facs="#riga140_art1"/>
+            In seguito alla recente decisione della <orgName type="politica">Camera dei Co-<lb break="no"/>
+<lb facs="#riga141_art1"/>
+            muni</orgName> che ammette i membri di essa a surrogare il giura-<lb break="no"/>
+<lb facs="#riga142_art1"/>
+            mento con una dichiarazione di fedelta', il <persName>Bradlaugh</persName> ha
+<lb facs="#riga143_art1"/>
+            fatto questa dichiarazione senza provocaro nessun altro in-<lb break="no"/>
+<lb facs="#riga144_art1"/>
+            cidente o rimostranza.
+<lb facs="#riga145_art1"/>
+            Sembra che l'orta abbia gia' in via confidenziale
+<lb facs="#riga146_art1"/>
+            fatto conoscere alle <orgName type="politica">potenze</orgName> ch'essa ritiene che la Confe-<lb break="no"/>
+<lb facs="#riga147_art1"/>
+            renza ultima di <placeName>Berlino</placeName> abbia oltrepassato i limiti indicati
+<lb facs="#riga148_art1"/>
+            dal Trattato di Berlino. Comunque sia, si teme che <orgName type="governo">la
+<lb facs="#riga149_art1"/>
+            Porta</orgName>, seguendo la sua solita politica, temporeggiera' e non
+<lb facs="#riga150_art1"/>
+            vorra' eseguire le deliberazioni della conferenza. Ed ora
+<lb facs="#riga151_art1"/>
+            verte questione fra le potenze circa i modi coattivi da eserci-<lb break="no"/>
+<lb facs="#riga152_art1"/>
+            tarsi sulla <placeName>Turchia</placeName>. Gia' si parlava di una squadra anglo-                                    
+<lb facs="#riga153_art1"/>
+            francese che andrebbe nel <placeName>Bosforo</placeName>, ma ora si afferma che
+<lb facs="#riga154_art1"/>
+            la <placeName>Francia</placeName> , come altre potenze, vuole lasciare all'<placeName>Inghilterra</placeName>
+<lb facs="#riga155_art1"/>
+            la responsabilita' della coazione, imperocche' ad essa spetta
+<lb facs="#riga156_art1"/>
+            la responsabilita' principale di quanto si e' fatto nella Con-<lb break="no"/>
+<lb facs="#riga157_art1"/>
+            ferenza berlinese.
+<lb facs="#riga158_art1"/>
+            A <placeName>Berlino</placeName> la  <orgName type="governo">Camera del Signori</orgName> approvo' (3) ad una
+<lb facs="#riga159_art1"/>
+            grandissima maggioranza il progetto ecclesiastico, secondo la
+<lb facs="#riga160_art1"/>
+            secondo la relazione approvata dalla <orgName type="governo">Camera dei Deputati</orgName>. La stampa,
+<lb facs="#riga161_art1"/>
+            favorevole al <orgName>Governo</orgName>, afferma che le discussioni della <orgName type="governo">Dieta</orgName>
+<lb facs="#riga162_art1"/>
+            e i documenti pubblicati sulle trattative di <placeName>Vienna</placeName> hanno
+<lb facs="#riga163_art1"/>
+            dimostrato sufficientemente da quale parte esistesse il senti-<lb break="no"/>
+<lb facs="#riga164_art1"/>
+            mento di conciliazione e da quale parte siano stati paraliz-<lb break="no"/>
+<lb facs="#riga165_art1"/>
+            zati gli sforzi tendenti a conchiudere la pace.
+<lb facs="#riga166_art1"/>
+            A <placeName>Madrid</placeName> la la convenzione sugli affari del <placeName>Marocco</placeName> venne 
+<lb facs="#riga167_art1"/>
+            firmata (14) da undici <roleName>ministri plenipotenziari</roleName>. Tale coven-<lb break="no"/>
+<lb facs="#riga168_art1"/>
+            zione accorda ai <orgName>governi</orgName> europei di poter scegliere come loro
+<lb facs="#riga169_art1"/>
+            protetti anche sudditi marocchini, dei quali protetti pero' do-<lb break="no"/>
+<lb facs="#riga170_art1"/>
+            vranno dare la lista alle autorita' marocchine e non potranno
+<lb facs="#riga171_art1"/>
+            averne piu' di tre. Dalla protezione sono esclusi i domesticoi.
+<lb facs="#riga172_art1"/>
+            Le <orgName type="international">potenze</orgName> rappresentate alla Conferenza di <placeName>Madrid</placeName> godran-<lb break="no"/>
+<lb facs="#riga173_art1"/>
+            no il trattamento della nazione piu' favorita.
+
+</ab>
+</div>
+
+<!-- TUSNELDA E TUMELICO 1-->
+<div type="article" n="2" xml:lang="it">
+<pb n="2" facs="#articolo2" />
+<cb n="1"/>
+<head rend="uppercase">
+<lb facs="#titolo_art2"/>
+      TUSNELDA E TUMELICO
+</head>
+<ab>
+<lb facs="#riga1_art2"/>
+            Quando <persName>Germanico</persName>, dopo aver raccolto e onorato di sepol-<lb break="no"/>
+<lb facs="#riga2_art2"/>
+            tura le ossa delle legioni cadute con <persName>Varo</persName> nella foresta di
+<lb facs="#riga3_art2"/>
+<placeName>Teutoburga</placeName>, nell'anno <date>16 d. C.</date> spingeva gli eserciti sul <placeName>We-<lb break="no"/>
+<lb facs="#riga4_art2"/>
+            ser</placeName>, militava con lui <persName>Flavio</persName> fratello di <persName>Arminio</persName>, antico e fe-<lb break="no"/>
+<lb facs="#riga5_art2"/>
+            dele amico dei Romani, che della sua fedelta' portava i 
+<lb facs="#riga6_art2"/>
+            segni nelle decorazioni e nell'esser cieco d'un occhio perduto
+<cb n="2"/>
+<lb facs="#riga7_art2"/>
+            combattendo sotto gli ordini di <persName>Tiberio</persName>. Narra <persName>Tacito</persName>
+<note>*1</note>
+<lb facs="#riga8_art2"/>
+            con quali veementi parole i due fratelli <persName>Flavio</persName> ed <persName>Arminio</persName>
+<lb facs="#riga9_art2"/>
+            si affrontassero sulle sponde del <placeName>Weser</placeName>, questi lamentando
+<lb facs="#riga10_art2"/>
+            la patria tradita, quegli esultando la protezione di <placeName>Roma</placeName>
+<lb facs="#riga11_art2"/>
+            sopra la pericolosa liberta' barbarica.
+<lb facs="#riga12_art2"/>
+            In quest'episodio, che ben s'accorda con l'epica intona-<lb break="no"/>
+<lb facs="#riga13_art2"/>
+            zione di tutto il racconto dell'ultima campagna di <persName>Germa-<lb break="no"/>
+<lb facs="#riga14_art2"/>
+            nico</persName>, si raffigura al vivo la condizione dei barbari rispetto
+<lb facs="#riga15_art2"/>
+            all'<orgName>Impero</orgName>. Sulla sponda con <persName>Flavio</persName> era lo spirito di quelli
+<lb facs="#riga16_art2"/>
+            che volevano schiudere il mondo barbarico alla civilta' la-<lb break="no"/>
+<lb facs="#riga17_art2"/>
+            tina e, senza credersi rinnegati, riconoscevano la forza as-<lb break="no"/>
+<lb facs="#riga18_art2"/>
+            similatrice di <placeName>Roma</placeName> e si rendevano capaci dell'idea d'una
+<lb facs="#riga19_art2"/>
+            gran patria romana. Sulla sponda con <persName>Arminio</persName> fremeva lo
+<lb facs="#riga20_art2"/>
+            spirito della liberta' indomita, dell'amore di patria abor-<lb break="no"/>
+<lb facs="#riga21_art2"/>
+            rente da straniera civilta', fedele e saldo nella nativa bar-<lb break="no"/>
+<lb facs="#riga22_art2"/>
+            barie. <persName>Arminio</persName> aveva allora a combattere non solo coi
+<lb facs="#riga23_art2"/>
+            Romani, ma una piu' aspra guerra cogli stessi suoi conna-<lb break="no"/>
+<lb facs="#riga24_art2"/>
+            zionali, con quelli ch'erano animati dalle idee di <persName>Flavio</persName> suo
+<lb facs="#riga25_art2"/>
+            fratello, e di <persName>Segeste</persName> suo suocero, il quale aborrito per l'os-<lb break="no"/>
+<lb facs="#riga26_art2"/>
+            sequio suo verso <placeName>Roma</placeName> e assalito da sue genti, fu debitore
+<lb facs="#riga27_art2"/>
+            di salvezza all'aiuto di <persName>Germanico</persName>.Ma in quest'occasione
+<lb facs="#riga28_art2"/>
+            eran caduti in poter dei Romani molti prigionieri, e fra
+<lb facs="#riga29_art2"/>
+            gli altri la figlia stessa di <persName>Segeste</persName>, che rifiutando altre nozze
+<lb facs="#riga30_art2"/>
+            e fuggendo la casa paterna, erasi fatta sposa d'<persName>Arminio</persName> e
+<lb facs="#riga31_art2"/>
+            gia' era incinta. La donna, che coi voti seguiva non il pa-<lb break="no"/>
+<lb facs="#riga32_art2"/>
+            dre ma il marito, stette dinanzi al duce romano senza la-<lb break="no"/>
+<lb facs="#riga33_art2"/>
+            grime, senza parole, in quell'atteggiamento di fiera dignita'
+<lb facs="#riga34_art2"/>
+            in cui <persName>Tacito</persName> con brevi parole l'ha scolpita, <quote xml:lang="la">compressis
+<lb facs="#riga35_art2"/>
+            intra sinum manibus, gravidum uterum intuens.</quote> Tratta in
+<lb facs="#riga36_art2"/>
+            ostaggio, mentre lo sposo suo sosteneva la guerra incalzato 
+<lb facs="#riga37_art2"/>
+            verso l'<placeName>Elba</placeName> da <persName>Germanico</persName>, ella partoriva in <placeName>Italia</placeName>, nella 
+<lb facs="#riga38_art2"/>
+            schiavitu', un figliuolo. <persName>Tacito</persName> parlando della nascita di lui
+<lb facs="#riga39_art2"/>
+            promette di narrare in altro luogo a quale strazio di for-<lb break="no"/>
+<lb facs="#riga40_art2"/>
+            tuna egli fosse riserbato. <note>*2</note>
+<lb facs="#riga41_art2"/>
+            Il favore che <persName>Segeste</persName> godeva presso i Romani lascio'
+<lb facs="#riga42_art2"/>
+            forse sperare che la moglie e il figlio d'<persName>Arminio</persName> sarebbero
+<lb facs="#riga43_art2"/>
+            considerati piuttosto come ostaggi idonei ad ottenere qual-<lb break="no"/>
+<lb facs="#riga44_art2"/>
+            che accordo anziche' prigionieri di guerra. Ma il pensiero
+<lb facs="#riga45_art2"/>
+            della schiavitu' de' suoi non ammolli la costanza d'<persName>Arminio</persName>;
+<lb facs="#riga46_art2"/>
+            continuo' la guerra; i Romani alzarono trofei di vittoria
+<lb facs="#riga47_art2"/>
+            nei piani d'<placeName>Idistaviso</placeName>; e quando <persName>Germanico</persName> celebro' il trionfo
+<lb facs="#riga48_art2"/>
+            ai <date>26 di maggio dell'<choice>
+<abbr>a.</abbr>
+<expan>anno</expan>
+</choice> 17 <choice>
+<abbr>d. C.</abbr>
+<expan>dopo Cristo</expan>
+</choice>
+</date>, la moglie del re dei Che-<lb break="no"/>
+<lb facs="#riga49_art2"/>
+            rusci e il figlioletto, che appena contava tre anni, furono
+<lb facs="#riga50_art2"/>
+            principale ornamento della pompa trionfale; a loro volge-<lb break="no"/>
+<lb facs="#riga51_art2"/>
+            vansi con superba curiosita' gli sguardi romani; raffronta-<lb break="no"/>
+<lb facs="#riga52_art2"/>
+            vansi i cinque figliuoli di <persName>Germanico</persName>, che stavano sul carro
+<lb facs="#riga53_art2"/>
+            trionfale orgogliosi dello splendore paterno, alla donna tede-<lb break="no"/>
+<lb facs="#riga54_art2"/>
+            sca che si trascinava col suo pargoletto nell'umiliazione della
+<lb facs="#riga55_art2"/>
+            prigionia. Di questi infelici sarebbe ignoto il nome, se non
+<lb facs="#riga56_art2"/>
+            l'avesse a noi conservato <persName>Strabone</persName> il geografo, che sembra
+<lb facs="#riga57_art2"/>
+            aver assistito a quel solenne avvenimento e averlo consi-<lb break="no"/>
+<lb facs="#riga58_art2"/>
+            derato non come <persName>Tacito</persName>, che da romano altro non vi vede
+<lb facs="#riga59_art2"/>
+            fuorche' la gloria del vincitore, ma con sentimento di sta-<lb break="no"/>
+<lb facs="#riga60_art2"/>
+            niero preso di compassione per la sorte dei vinti. <note>*3</note> Egli
+<lb facs="#riga61_art2"/>
+            ci presenta <persName>Segeste</persName>, che in abito pomposo seguitando come 
+<lb facs="#riga62_art2"/>
+            alleato il trionfatore sostiene la vista della sventura di sua
+<lb facs="#riga63_art2"/>
+            figlia <persName>Thusnelda</persName>, (forse una forma grecizzata di <foreign xml:lang="de">Thursi-<lb break="no"/>
+<lb facs="#riga64_art2"/>
+            nhilda</foreign>)<note>*4</note> del piccolo nipote <persName>Thumelicus</persName>, e di molti altri 
+<lb facs="#riga65_art2"/>
+            dell'infelice sua stirpe. Fin qui la storia. Qual sorte
+<lb facs="#riga66_art2"/>
+            incontrassero la madre o il figlio dopo il trionfo non ci e'
+<lb facs="#riga67_art2"/>
+            narrato; probabilmente la madre fu trattenuta schiava in
+<lb facs="#riga68_art2"/>
+<placeName>Roma</placeName>; il figlio fu condotto a <placeName>Ravenna</placeName>; la costui fine, che
+<lb facs="#riga69_art2"/>
+            certo fu miseranda, resta ignota, essendo perduto il rac-<lb break="no"/>
+<lb facs="#nota70_art2"/>
+<note>*1<persName>Tacito</persName>,<choice>
+<abbr>Ann.</abbr>
+<expan>Annales</expan>
+</choice>,<bibl>
+<biblScope unit="volume">II</biblScope>,<biblScope unit="chapter">9</biblScope>
+</bibl> .
+</note>
+<lb facs="#nota71_art2"/>
+<note>*2<persName>Tacito</persName>,<title>
+<choice>
+<abbr>Ann.</abbr>
+<expan>Annales</expan>
+</choice>
+</title>,<bibl>
+<biblScope unit="volume">I</biblScope>,<biblScope unit="chapter">57</biblScope>,<biblScope unit="chapter">58</biblScope>
+</bibl>.
+</note>
+<lb facs="#nota72_art2"/>
+<note>*3<persName>Strabone</persName>,<bibl>
+<biblScope unit="volume">VII</biblScope>,<biblScope unit="section">1.4</biblScope>
+</bibl>;<persName>Tacito</persName>,<choice>
+<abbr>Ann.</abbr>
+<expan>Annales</expan>
+</choice>,<bibl>
+<biblScope unit="volume">II</biblScope>,<biblScope unit="chapter">41</biblScope>
+</bibl>.
+</note>
+<lb facs="#nota73_art2"/>
+<note>*4 Vedi 1. <persName>Grimm</persName>,<title>
+<foreign xml:lang="de">Geschichte der deutschen Sprache</foreign>
+</title>,<bibl>
+<biblScope unit="volume">I</biblScope>,<biblScope unit="page">
+<choice>
+<abbr>p.</abbr>
+<expan>pagina</expan>
+</choice> 298</biblScope>
+</bibl>.
+</note>
+<cb n="1" />
+
+<lb facs="#riga74_art2"/>
+            conto che <persName>Tacito</persName> prometteva, e probabilmente era in quei
+<lb facs="#riga75_art2"/>
+            libri degli <title>
+<choice>
+<abbr>Ann.</abbr>
+<expan>Annales</expan>
+</choice>
+</title> che narravano il regno di <persName>Caligola</persName>.
+<lb facs="#riga76_art2"/>
+            Tacendo nella storia, i nomi di <persName>Thusnelda</persName> e di <persName>Thumelico</persName>
+<lb facs="#riga77_art2"/>
+            rivivono nell'arte. Il trionfo di <persName>Germanico</persName> ricordato nelle
+<lb facs="#riga78_art2"/>
+            medaglie colla leggenda <quote>Germanis devictis, signia receptis</quote>,<note>*1</note>
+<lb facs="#riga79_art2"/>
+            credesi in parte rappresentato sul grande cammeo che si
+<lb facs="#riga80_art2"/>
+            conserva nel gabinetto delle medaglie di <placeName>Parigi</placeName>, dato da
+<lb facs="#riga81_art2"/>
+<persName>Balduino II</persName> a <persName>Luigi IX</persName>.<note>*2</note> La triplice rappresentazione di
+<lb facs="#riga82_art2"/>
+            quel cammeo, creduta d'argomento sacro nell'ignoranza del
+<lb facs="#riga83_art2"/>
+            Medio Evo, dalle illustrazioni di <persName>Tristan de Saint-Amand</persName>,
+<lb facs="#riga84_art2"/>
+            di <persName>Peiresc</persName>, di <persName>Jacques Le Roi</persName>, e' riconosciuta raffigurare
+<lb facs="#riga85_art2"/>
+            l'apoteosi di <persName>Augusto</persName> nella linea superiore, nella mediana
+<lb facs="#riga86_art2"/>
+            il ricevimento di <persName>Germanico</persName> presso <persName>Tiberio</persName>, nell'inferiore i
+<lb facs="#riga87_art2"/>
+            prigionieri di guerra, probabilmente quelli che <persName>Strabone</persName>
+<lb facs="#riga88_art2"/>
+            nomina nel trionfo dell'<date>
+<choice>
+<abbr>a.</abbr>
+<expan>anno</expan>
+</choice> 17</date>. Fra questi e' una donna reg-<lb break="no"/>
+<lb facs="#riga89_art2"/>
+            gentesi nelle braccia un fanciulletto, e quest'immagine su-<lb break="no"/>
+<lb facs="#riga90_art2"/>
+            bito richiama al pensiero il nome e la sventura della donna
+<lb facs="#riga91_art2"/>
+            e del figlio d'<persName>Arminio</persName>.
+<lb facs="#riga92_art2"/>
+            Nel fondo della <placeName>Loggia dei Lanzi</placeName> in <placeName>Firenze</placeName> sono al-<lb break="no"/>
+<lb facs="#riga93_art2"/>
+            cune statue antiche di donne; l'attenzione e' presto chia-<lb break="no"/>
+<lb facs="#riga94_art2"/>
+            mata su una di queste, per l'atteggiamento un po' abbando-<lb break="no"/>
+<lb facs="#riga95_art2"/>
+            nato e languido, ma tuttavia nobile, e per un'espressione
+<lb facs="#riga96_art2"/>
+            di pensosa mestizia. Il volto riposa leggermente sul dosso
+<lb facs="#riga97_art2"/>
+            della mano destra; il braccio e' sorretto dalla sinistra che
+<lb facs="#riga98_art2"/>
+            attraversa il petto, raccogliendo parto del panneggiamento;
+<lb facs="#riga99_art2"/>
+            un doppio <foreign xml:lang="grc">chitôn</foreign> la ricopre fino ai piedi e s'annoda sulla
+<lb facs="#riga100_art2"/>
+            spalla, lasciando scoperte le braccia e tutta la mammella
+<lb facs="#riga101_art2"/>
+            sinistra; le forme hanno la florida pienezza matronale; la
+<lb facs="#riga102_art2"/>
+            chioma e' copiosa; lo sguardo s'affisa innanzi come assorto
+<lb facs="#riga103_art2"/>
+            in un oggetto lontano, vagheggiato forse solo nel pensiero.
+<lb facs="#riga104_art2"/>
+            La si direbbe volentieri l'immagine della meditazione o
+<lb facs="#riga105_art2"/>
+            della quiete; e per tale fu da alcuni creduta. Altri, ancora
+<lb facs="#riga106_art2"/>
+            per quest'aria di raccoglimento, la vollero <persName>Mnemosine</persName>. Altri
+<lb facs="#riga107_art2"/>
+            per la dignitosa mestizia e la nobilta' matronale la fecero
+<lb facs="#riga108_art2"/>
+<persName>Veturia</persName> madre di <persName>Coriolano</persName>. Ma infine qualche particolarita'
+<lb facs="#riga109_art2"/>
+            dell'abito, la lunga chioma e singolarmente la forma dei
+<lb facs="#riga110_art2"/>
+            calzari indussero il <persName>Mongez</persName> a ravvisarvi una donna barba-<lb break="no"/>
+<lb facs="#riga111_art2"/>
+            rica, a trovarvi l'addolorata fierezza della donna condotta
+<lb facs="#riga112_art2"/>
+            in trionfo e quindi a pensare alle donne ricordate da <persName>Stra-<lb break="no"/>
+<lb facs="#riga113_art2"/>
+            bone</persName>, a <persName>Ramide</persName>, moglie di <persName>Sesitavo</persName>, o a <persName>Thusnelda</persName>.<persName>Göttling</persName>
+<note>*3</note>
+<lb facs="#riga114_art2"/>
+            riprendendo in esame quella statua si pronunzia per que-<lb break="no"/>
+<lb facs="#riga115_art2"/>
+            st'ultimo nome ed argomenta che la statua ornasse l'arco
+<lb facs="#riga116_art2"/>
+            eretto a <persName>Tiberio</persName> ed a <persName>Germanico</persName>
+<quote>ob recepta signa cum Varo
+<lb facs="#riga117_art2"/>
+            amissa</quote> presso il <placeName>tempio di Saturno</placeName> nel <placeName>Foro</placeName>.<note>*4</note> Oggidi' e'
+<lb facs="#riga118_art2"/>
+            comunemente designato col nome di <persName>Thusnelda</persName>, e la conget-<lb break="no"/>
+<lb facs="#riga119_art2"/>
+            tura prende valore di realta', sebbene possa anche pensarsi 
+<lb facs="#riga120_art2"/>
+            che fosse alcuna delle moltissime immagini di Germani,
+<lb facs="#riga121_art2"/>
+            Marcomanni,Ermunduri, Quadi, poste dopo le vittorie di
+<lb facs="#riga122_art2"/>
+<persName>Marco Aurelio</persName> negli splendidi edifizi che contornavano il
+<lb facs="#riga123_art2"/>
+<placeName>Foro Traiano</placeName>, nelle cui vicinanze probabilmente quella
+<lb facs="#riga124_art2"/>
+            statua fu da <persName>Leone Strozzi</persName> raccolta e fatta trasportare a
+<lb facs="#riga125_art2"/>
+<placeName>Firenze</placeName>.<persName>Göttling</persName> volle accanto a quella di <persName>Thusnelda</persName> porre
+<lb facs="#riga126_art2"/>
+            anche l'effigie del figliuolo suo <persName>Thumelicus</persName>, riproducendo una
+<lb facs="#riga127_art2"/>
+            bella e ardimentosa testa di giovane barbarico da un marmo
+<lb facs="#riga128_art2"/>
+            del <placeName>Museo Britannico</placeName>, prima indicato per <persName>Arminio</persName> o per
+<lb facs="#riga129_art2"/>
+<persName>Carattaco</persName>, re dei Siluri.
+<lb facs="#riga130_art2"/>
+            Il misterioso <quote>ludibrium</quote> di <persName>Tacito</persName> ha stimolato le conget-<lb break="no"/>
+<lb facs="#riga131_art2"/>
+            ture degli eruditi e lasciato libero campo alle creazioni della
+<lb facs="#riga132_art2"/>
+            fantasia. Per la notizia che <persName>Thumelicus</persName> fu tratto a <placeName>Ravenna</placeName>,
+<lb facs="#riga133_art2"/>
+            dove sorgeva un grande ludo gladiatorio, <persName>Göttling</persName> penso'
+<lb facs="#riga134_art2"/>
+            che il fanciullo venisse cola' allevato alla dura e ignominiosa
+<lb facs="#riga135_art2"/>
+            vita di gladiatore, onde finito il tirocinio colle armi lusorie
+<lb facs="#nota136_art2"/>
+<note>*1 
+<persName>Eckhel</persName>,<title xml:lang="la">
+<choice>
+<abbr>d. n. v.</abbr>
+<expan>Doctrina numorum veterum</expan>
+</choice>
+</title>,<bibl>
+<biblScope unit="volume">VI</biblScope>,<biblScope unit="page">209</biblScope>
+</bibl>. 
+</note>
+<lb facs="#nota137_art2"/>
+<note>*2
+<persName>Montfaucon</persName>
+,<title xml:lang="la">
+<choice>
+<abbr>Antiq. expl.</abbr>
+<expan>Antiquite' explique'e</expan>
+</choice>
+</title>,<bibl>
+<biblScope unit="volume">V</biblScope>,<biblScope unit="page">1</biblScope>,<biblScope unit="plate">127</biblScope>
+</bibl>.
+</note>
+<lb facs="#nota138_art2"/>
+<note>*3 <title>
+<choice>
+<abbr>Annali dell'Ist. germ. di corrisp. archeol.</abbr>
+<expan>Annali dell'Istituto Germanico di Corrispondenza Archeologica</expan>
+</choice>
+</title>,<bibl>
+<biblScope unit="volume">XIII</biblScope>
+</bibl>,<date>1842</date>; 
+</note>
+<lb facs="#nota139_art2"/>
+<note>
+<title xml:lang="la">
+<choice>
+<abbr>Monum. ined.</abbr>
+<expan>Monumenti Inediti</expan>
+</choice>
+</title>,<bibl>
+<biblScope unit="volume">III</biblScope>,<biblScope unit="plate">28</biblScope>
+</bibl>.
+</note>
+<lb facs="#nota140_art2"/>
+<note>
+<persName>Tacito</persName>,<title xml:lang="la">
+<choice>
+<abbr>Ann.</abbr>
+<expan>Annales</expan>
+</choice>
+</title>,<bibl>
+<biblScope unit="volume">II</biblScope>,<biblScope unit="chapter">41</biblScope>
+</bibl>.
+</note>
+<lb facs="#riga141_art2"/>
+            e donato della tessera di <quote xml:lang="la">spectatus</quote> morisse combattendo nel-<lb break="no"/>
+<lb facs="#riga142_art2"/>
+            l'arena, forse in occasione che si celebrava alcuna vittoria
+<lb facs="#riga143_art2"/>
+            riportata sui Germani. E' un' assai buona congettura; mag-<lb break="no"/>
+<lb facs="#riga144_art2"/>
+            gior ludibrio, piu' acerbo strazio di fortuna di quello d'un
+<lb facs="#riga145_art2"/>
+            figlio di principe umiliato alla condizione di gladiatore, co-<lb break="no"/>
+<lb facs="#riga146_art2"/>
+            stretto ad allietare con spettacolo di se', col profondere il
+<lb facs="#riga147_art2"/>
+            proprio sangue, le feste della vinta sua patria, davvero non
+<lb facs="#riga148_art2"/>
+            si potrebbe pensare. I nomi di <persName>Thusnelda</persName> e di <persName>Thumelico</persName> for-<lb break="no"/>
+<lb facs="#riga149_art2"/>
+            mano nell'arte moderna come un episodio nel ciclo poetico
+<lb facs="#riga150_art2"/>
+            dell'eroe germanico. <persName>Piloty</persName> no trasse argomento del suo
+<lb facs="#riga151_art2"/>
+            quadro <title xml:lang="de">Thusnelda im Triumphzuge des Germanicus</title>. Innanzi
+<lb facs="#riga152_art2"/>
+            al carro del trionfatore, a piedi della tribuna dove sta il
+<lb facs="#riga153_art2"/>
+            cupo <persName>Tiberio</persName>, s'avanza <persName>Thusnelda</persName> con quella dignita' regale,
+<lb facs="#riga154_art2"/>
+            con quell'altero dolore in cui <persName>Tacito</persName> l'ha atteggiata per la
+<lb facs="#riga155_art2"/>
+            posterita'. Il piccolo <persName>Thumelicus</persName>, inconscio, fra meravigliato e
+<lb facs="#riga156_art2"/>
+            spaurito, si stringe alle vesti della madre, verso la quale
+<lb facs="#riga157_art2"/>
+            alcuni fanciulli levano le mani e le grida insolenti, e figli
+<lb facs="#riga158_art2"/>
+            di vincitori gia' apprendono l'insulto della sventura. Le due
+<lb facs="#riga159_art2"/>
+            figure campeggiano nel mezzo d'una scena veramente gran-<lb break="no"/>
+<lb facs="#riga160_art2"/>
+            diosa. Sul davanti incede un gruppo di prigionieri; un mi-<lb break="no"/>
+<lb facs="#riga161_art2"/>
+            lite guida un e con ghigno feroce brancica la barba
+<lb facs="#riga162_art2"/>
+            lunga o canuta di un bardo coronato di quercia, che cam-<lb break="no"/>
+<lb facs="#riga163_art2"/>
+            mina curvo colle mani legate al tergo: altri due bardi
+<lb facs="#riga164_art2"/>
+            stanno abbandonati, quasi arrovesciati nell'immensita' del
+<lb facs="#riga165_art2"/>
+            dolore, fra un mucchio d'armi, di vasi, di pelli, d'attrezzi,
+<lb facs="#riga166_art2"/>
+            accumulati a piedi di un cippo come immagine parlante
+<lb facs="#riga167_art2"/>
+            della condizione sociale della <placeName>Germania</placeName> d'allora. Dopo
+<lb facs="#riga168_art2"/>
+<persName>Thusnelda</persName> viene <persName>Rumilo</persName>, moglie di <persName>Sesitaco</persName>, con altre tre
+<lb facs="#riga169_art2"/>
+            donne; e dopo questo, i principi prigionieri, <persName>Segimundo</persName> fra-<lb break="no"/>
+<lb facs="#riga170_art2"/>
+            tello di <persName>Thusnelda</persName>,<persName>Sesitaco</persName> di <persName>Segimero</persName>,<persName>Deutorige</persName>. Sopra
+<lb facs="#riga171_art2"/>
+            la turba s'alza eminente nella lontananza sul carro trion-<lb break="no"/>
+<lb facs="#riga172_art2"/>
+            fale <persName>Germanico</persName>, circondato do' suoi cinque figli. Il carro ha
+<lb facs="#riga173_art2"/>
+            appena oltrepassato l'arco di trionfo; intorno intorno on-<lb break="no"/>
+<lb facs="#riga174_art2"/>
+            deggia confusa la folla, si muovono nell'aria le aste colle
+<lb facs="#riga175_art2"/>
+            immagini della vittoria, s'agitano e volano buttati dagli
+<lb facs="#riga176_art2"/>
+            spettatori rami di palma e corone d'alloro; par che da quella
+<lb facs="#riga177_art2"/>
+            folla prorompa iterato il grido <quote xml:lang="la">Io triumphe</quote>. In parte piu'
+<lb facs="#riga178_art2"/>
+            alta al sommo d'una gradinata ombreggiata da ricco padi-<lb break="no"/>
+<lb facs="#riga179_art2"/>
+            glione, siede fra' <roleName>senatori</roleName>
+<persName>Tiberio</persName>. Presso di lui, ma quasi
+<lb facs="#riga180_art2"/>
+            vergognoso dell'onorato posto, sta un vecchio in abito bar-<lb break="no"/>
+<lb facs="#riga181_art2"/>
+            barico: e' <persName>Segeste</persName>, che vede sotto di se' sfilare incatenati i
+<lb facs="#riga182_art2"/>
+            figli, i nipoti, tutta la vinta sua nazione. In un angolo del
+<lb facs="#riga183_art2"/>
+            quadro, ultima delle figure di destra, e' un vecchio di aspetto
+<lb facs="#riga184_art2"/>
+            grave e dolce ad un tempo, che addita il primo gruppo di
+<lb facs="#riga185_art2"/>
+            prigionieri: e' <persName>Strabone</persName>, a cui dobbiamo le particolari indi-<lb break="no"/>
+<lb facs="#riga186_art2"/>
+            cazioni del trionfo di Germanico. Tutta quella folla che sfonda
+<lb facs="#riga187_art2"/>
+            lontana si muove in un'aria d'ebbrezza; ma fra l'esultanza
+<lb facs="#riga188_art2"/>
+            degli inni di vittoria erompo la nota di un profondo dolore,
+<lb facs="#riga189_art2"/>
+            e chi guarda la grandiosa composizione, prima che d'ammi-<lb break="no"/>
+<lb facs="#riga190_art2"/>
+            razione per la grandezza romana e' preso da un sentimento
+<lb facs="#riga191_art2"/>
+            di pieta'. Nel quadro hai le indicazioni di <persName>Strabone</persName> vivificate
+<lb facs="#riga192_art2"/>
+            col ricordo di <persName>Tacito</persName> dall'intuito di un grande artista: non
+<lb facs="#riga193_art2"/>
+            e' opera d'arte erudita, e' vera poesia, e' un canto nazionale.
+<lb facs="#riga194_art2"/>
+            Alla sorte infelice di <persName>Thumelicus</persName> accenna <persName>Klopstock</persName> in una
+<lb facs="#riga195_art2"/>
+            delle sue tragedie patriottiche, la <title>morte d'Arminio</title>, dove
+<lb facs="#riga196_art2"/>
+            finge il ritorno di <persName>Thusnelda</persName> dalla prigionia di Roma alla
+<lb facs="#riga197_art2"/>
+            libera barbarie. Ma parmi che con piu' viva ispirazione
+<lb facs="#riga198_art2"/>
+            poetica, con maggior intuito della verita' e piu' fedele osser-<lb break="no"/>
+<lb facs="#riga199_art2"/>
+            vanza della storia siano rappresentati i casi lagrimevoli
+<lb facs="#riga200_art2"/>
+            della stirpe d'Arminio nel <title>Gladiatore di Ravenna</title> di <persName>Federico
+<lb facs="#riga201_art2"/>
+            Halm</persName>, che nell'opinione di <persName>Göttling</persName> ha trovato il germe
+<lb facs="#riga202_art2"/>
+            della tragedia. Le angosce della madre, che lungamente se-<lb break="no"/>
+<lb facs="#riga203_art2"/>
+            parata dal figlio attende di rivederlo, di ridestare in lui gli
+<lb facs="#riga204_art2"/>
+            spiriti paterni, di prepararlo a nuovi destini della patria,
+<lb facs="#riga205_art2"/>
+            e in questa speranza, dalla quale soltanto trae forza di so-<lb break="no"/>
+<lb facs="#riga206_art2"/>
+            stenere la vita miseranda, e' tradita quando trova il discen-<lb break="no"/>
+<lb facs="#riga207_art2"/>
+            dente del vincitore di <persName>Varo</persName> abbrutito nel mestiere gladia-<lb break="no"/>
+<pb/>
+<cb/>
+
+<lb facs="#riga209_art2"/>
+            torio, sono elementi di un dramma fremente di profonda
+<lb facs="#riga210_art2"/>
+            passione. Ma nel dramma <persName>Thumelicus</persName> non finisce combattendo
+<lb facs="#riga211_art2"/>
+            da gladiatore. Il contrasto dei sentimenti del figlio con quelli
+<lb facs="#riga212_art2"/>
+            della madre, nella quale e' raffigurato il tipo dell'antica
+<lb facs="#riga213_art2"/>
+            donna germanica secondo <persName>Tacito</persName>, le esigenze dell'azione tra-<lb break="no"/>
+<lb facs="#riga214_art2"/>
+            gica, che trovavano libero campo nelle incertezze delle no-<lb break="no"/>
+<lb facs="#riga215_art2"/>
+            l'uccisione di <persName>Thumelicus</persName> per mano della madre insofferente
+<lb facs="#riga216_art2"/>
+            tizie storiche, hanno offerto al <roleName>poeta</roleName> lo scioglimento col-<lb break="no"/>
+<lb facs="#riga217_art2"/>
+            della vergogna di lui, e vaticinante col fatidico spirito delle 
+<lb facs="#riga218_art2"/>
+            alrune la caduta di <placeName>Roma</placeName> per opera dei barbari. Ma cerca
+<lb facs="#riga219_art2"/>
+            il poeta di tenersi fedele alle migliori probabilita' storiche
+<lb facs="#riga220_art2"/>
+            col porre la fine di <persName>Thumelicus</persName> in una di quelle feste che 
+<lb facs="#riga221_art2"/>
+<persName>Caligola</persName> celebrava per le simulate sue vittorie, potendosi 
+<lb facs="#riga222_art2"/>
+            tener per certo che il figlio d'<persName>Arminio</persName> gia' fosse morto al 
+<lb facs="#riga223_art2"/>
+            principio del regno di <persName>Claudio</persName>; giacche' quando nell'<date>
+<choice>
+<abbr>a.</abbr>
+<expan>anno</expan>
+</choice> 47</date>, 
+<lb facs="#riga224_art2"/>
+            da <placeName>Roma</placeName> era mandato re dei Cherusci <persName>Italico</persName>, figlio di <persName>Flavio</persName>
+<lb facs="#riga225_art2"/>
+            e nipote d'<persName>Arminio</persName>,<persName>Tacito</persName> * dice ch'egli ora l'ultimo ram-<lb break="no"/>
+<lb facs="#riga226_art2"/>
+            pollo di quella stirpe reale. <persName>IGINIO GENTILE</persName>.
+
+</ab>
+</div>
+
+<!-- W. Bagehot -->
+<div type="bibliografia" n="3" xml:lang="it">
+<pb n="1" facs="#bibgliografia1" />
+<cb n="1"/>
+<lb facs="#riga1_pag31"/>
+
+<head>
+<lb facs="#riga1_pag31"/>
+<persName>Walter Bagehot</persName>,Economic Studies,edited by Richard Holt Hut-<lb break="no"/>
+<lb facs="#riga2_pag31"/>
+ton,<placeName>London</placeName>,Longmans, Green and Co.,<date>1880</date>.
+</head>
+<ab>
+<lb facs="#riga3_pag31"/>
+            Questo volume comprende alcuni saggi, che il <persName>Bagehot</persName>
+<lb facs="#riga4_pag31"/>
+            scrisse intorno ai principi fondamentali, agli uomini piu'
+<lb facs="#riga5_pag31"/>
+<cb n="2"/>
+            notevoli e alle <choice>
+<orig>quistioni</orig>
+<reg>questioni</reg>
+</choice> salienti della economia politica in-<lb break="no"/>
+<lb facs="#riga6_pag31"/>
+            glese. Il riscontro fra la teoria e la pratica o fra lo spirito
+<lb facs="#riga7_pag31"/>
+            delle dottrine professato dagli economisti, e le condizioni 
+<lb facs="#riga8_pag31"/>
+            della vita reale del popolo, e' continuo, largo, perfetto. E 
+<lb facs="#riga9_pag31"/>
+            parlando dei principali scrittori inglesi, il <persName>Bagehot</persName> mette 
+<lb facs="#riga10_pag31"/>
+            in chiaro il significato delle loro teorie e svolge in certo
+<lb facs="#riga11_pag31"/>
+            modo la storia della scienza: come per illustrare i concetti
+<lb facs="#riga12_pag31"/>
+            teorici dimostra i caratteri propri del vivere sociale e della
+<lb facs="#riga13_pag31"/>
+            economia in <placeName>Inghilterra</placeName>. Non accoglie in cio' le opinioni esa-<lb break="no"/>
+<lb facs="#riga14_pag31"/>
+            gerate del <persName>Cliffe Leslie</persName> e di qualche altro, ne' si attiene in 
+<lb facs="#riga15_pag31"/>
+            tutto e ciecamente alle vecchie tradizioni scientifiche; ma ne 
+<lb facs="#riga16_pag31"/>
+            fa un'interpretazione sagace, nuova in alcuni punti e piu' 
+<lb facs="#riga17_pag31"/>
+            conforme alla natura degli studi moderni; e dimostra in 
+<lb facs="#riga18_pag31"/>
+            molte parti il giudizio equanime e acuto del <persName>Cairnes</persName>, me-<lb break="no"/>
+<lb facs="#riga19_pag31"/>
+            glio ritemprato alla ricerca dei fatti e piu' proclive alle con-<lb break="no"/>
+<lb facs="#riga20_pag31"/>
+            cessioni opportune e ai progressi scientifici.
+<lb facs="#riga21_pag31"/>
+            Nel primo saggio <title>«Sui postulati della economia inglese»</title>
+<lb facs="#riga22_pag31"/>
+            l'<choice>
+<abbr>A.</abbr>
+<expan>Autore</expan>
+</choice> tratta le <choice>
+<orig>quistioni</orig>
+<reg>questioni</reg>
+</choice> relative alle premesse, al metodo e ai 
+<lb facs="#riga23_pag31"/>
+            risultati della scienza. Parla de' suoi trionfi e della influenza 
+<lb facs="#riga24_pag31"/>
+            grandissima che ha esercitato negli Stati moderni: e accenna 
+<lb facs="#riga25_pag31"/>
+            alle circostanze che contribuirono a produrre la sua deca-<lb break="no"/>
+<lb facs="#riga26_pag31"/>
+            denza nella <orgName>opinione pubblica</orgName> dei tempi nostri. Discute le
+<lb facs="#riga27_pag31"/>
+<choice>
+<orig>obbiezioni</orig>
+<reg>obiezioni</reg>
+</choice> che sogliono muoversele, e difende il suo me-<lb break="no"/>
+<lb facs="#riga28_pag31"/>
+            todo, assegnando pero' ai risultati che se ne ottengono e
+<lb facs="#riga29_pag31"/>
+            ai principii che ne derivano una portata piu' ristretta, un
+<lb facs="#riga30_pag31"/>
+            valore determinato e relativo. L'autorita' della economia po-<lb break="no"/>
+<lb facs="#riga31_pag31"/>
+            litica, dic'egli, non puo' essere impugnata, ma soltanto dimi-<lb break="no"/>
+<lb facs="#riga32_pag31"/>
+            nuta o ridotta alle giuste proporzioni. Gli avversari tra-<lb break="no"/>
+<lb facs="#riga33_pag31"/>
+            scendono ogni limite o si contradicono fra loro; perche' men-<lb break="no"/>
+<lb facs="#riga34_pag31"/>
+            tre alcuni accusano l'economia di troppa astrattezza, altri
+<lb facs="#riga35_pag31"/>
+            vorrebbero introdurvi un metodo ancor piu' astratto, il pro-<lb break="no"/>
+<lb facs="#riga36_pag31"/>
+            cesso matematico. Certo non e' una disciplina perfetta o
+<lb facs="#riga37_pag31"/>
+            inappuntabile; ma il suo metodo, ove sia bene inteso, e' fe-<lb break="no"/>
+<lb facs="#riga38_pag31"/>
+            condo di utili risultati.La fonte principale de' suoi errori 
+<lb facs="#riga39_pag31"/>
+            consiste in cio', che si e' considerata come dottrina delle cause
+<lb facs="#riga40_pag31"/>
+            che influiscono sulla produzione e distribuzione della ric-<lb break="no"/>
+<lb facs="#riga41_pag31"/>
+            chezza in ogni societa', piuttosto che in una certa societa'. Da 
+<lb facs="#riga42_pag31"/>
+            questo concetto imperfetto son derivate le astrattezze e
+<lb facs="#riga43_pag31"/>
+            il difetto di rimanere in sulle generali senza ricorrere spesso
+<lb facs="#riga44_pag31"/>
+            al riscontro e allo studio dei fatti particolari. E per chia-<lb break="no"/>
+<lb facs="#riga45_pag31"/>
+            rire meglio il suo pensiero <choice>
+<abbr>l'A.</abbr>
+<expan>l'Autore</expan>
+</choice> si fa a dimostrare il se-<lb break="no"/>
+<lb facs="#riga46_pag31"/>
+            guente quesito: <quote>La trasmissibilita' del lavoro o del capitale 
+<lb facs="#riga47_pag31"/>
+            da un impiego ad un altro nel medesimo paese, secon-<lb break="no"/>
+<lb facs="#riga48_pag31"/>
+            do che varia la ragione del salario e del profitto, e' una
+<lb facs="#riga49_pag31"/>
+            proposizione vera per l'<placeName>Inghilterra</placeName> dei nostri tempi, ma non
+<lb facs="#riga50_pag31"/>
+            per ogni paese e ogni tempo.</quote> Esamina quindi con vasta e 
+<lb facs="#riga51_pag31"/>
+            acuta indagine le condizioni che si richiedono per l'avverarsi
+<lb facs="#riga52_pag31"/>
+            di quel teorema, come impieghi molteplici, estesa divisione
+<lb facs="#riga53_pag31"/>
+            del lavoro, ordine e sicurezza delle transazioni private, viva
+<lb facs="#riga54_pag31"/>
+            concorrenza tra i produttori e simili.
+<lb facs="#riga55_pag31"/>
+            Le idee esposte dal <persName>Bagehot</persName> in questo suo lungo studio,
+<lb facs="#riga56_pag31"/>
+            quantunque derivino da un principio alquanto eccessivo,
+<lb facs="#riga57_pag31"/>
+            meritano molta considerazione si' per la larghezza delle ve-<lb break="no"/>
+<lb facs="#riga58_pag31"/>
+            dute generali come per l'aggiustatezza delle osservazioni
+<lb facs="#riga59_pag31"/>
+            particolari. E trovano una conferma nei <choice>
+<orig>saggio</orig>
+<reg>saggi</reg>
+</choice> consecutivo, 
+<lb facs="#riga60_pag31"/>
+            dove <choice>
+<abbr>l'A.</abbr>
+<expan>l'Autore</expan>
+</choice>, prendendo in esame alcuni principi fondamentali
+<lb facs="#riga61_pag31"/>
+            della economia, dimostra come essa sia una scienza astratta
+<lb facs="#riga62_pag31"/>
+            nel miglior senso della parola, e come nel fatto i suoi postu-<lb break="no"/>
+<lb facs="#riga63_pag31"/>
+            lati debbano intendersi in senso relativo a certi luoghi e a
+<lb facs="#riga64_pag31"/>
+            certi tempi.
+<lb facs="#riga65_pag31"/>
+            Indi nei saggi successivi parla di alcuni economisti in-<lb break="no"/>
+<lb facs="#riga66_pag31"/>
+            glesi, dello <persName>Smith</persName>, del <persName>Malthus</persName> e del <persName>Ricardo</persName>; fa un'analisi
+<lb facs="#riga67_pag31"/>
+            minuta ed esatta delle loro dottrine, specialmente del primo;
+<lb facs="#riga68_pag31"/>
+            ma non si addentra, com'era richiesto, nei particolari che
+<lb facs="#riga69_pag31"/>
+            si riferiscono ai precedenti e ai riscontri storici. Il libro 
+<lb facs="#riga70_pag31"/>
+            si compie con due lavori, uno sull'aumento del capitale e
+<lb facs="#riga71_pag31"/>
+            un altro sul costo di produzione. Nel primo <choice>
+<abbr>l'A.</abbr>
+<expan>l'Autore</expan>
+</choice> esamina
+<cb n="1"/>
+<lb facs="#riga72_pag31"/>
+            i modi speciali con cui si forma e si accresce il capitale 
+<lb facs="#riga73_pag31"/>
+            in <placeName>Inghilterra</placeName> per dimostrarne le differenze che passano 
+<lb facs="#riga74_pag31"/>
+            con altri paesi di carattere e civilta' differenti. E nel se-<lb break="no"/>
+<lb facs="#riga75_pag31"/>
+            condo discute il, quesito del costo di produzione quale mi-<lb break="no"/>
+<lb facs="#riga76_pag31"/>
+            sura del valore: e critico la dottrina del <persName>Ricardo</persName>, del <persName>Mill</persName>
+<lb facs="#riga77_pag31"/>
+            e del <persName>Cairnes</persName> come incompleta e insufficiente. Il teorema 
+<lb facs="#riga78_pag31"/>
+            del <persName>Mill</persName>, corretto e illustrato dal <persName>Cairnes</persName>, che il costo di
+<lb facs="#riga79_pag31"/>
+            produzione equivalga alla rimunerazione del lavoro e del-<lb break="no"/>
+<lb facs="#riga80_pag31"/>
+            l'astinenza, non e' all'intutto vero storicamente; perche' nella
+<lb facs="#riga81_pag31"/>
+            storia vi e' stato molto capitale profittevole, che non ha
+<lb facs="#riga82_pag31"/>
+            derivato dal risparmio, e non poco lavoro che non ha rice-<lb break="no"/>
+<lb facs="#riga83_pag31"/>
+            vuto ricompensa o mercede. E non e' interamente esatto
+<lb facs="#riga84_pag31"/>
+            neppure per le condizioni presenti della societa': atteso
+<lb facs="#riga85_pag31"/>
+            che oltre dell'astinenza e del lavoro individuale, vi e' un'altra 
+<lb facs="#riga86_pag31"/>
+            causa potente che contribuisce alle opere economiche, l'in-<lb break="no"/>
+<lb facs="#riga87_pag31"/>
+            fluenza dell'ambiente sociale. L'indagine dell<choice>
+<abbr>A.</abbr>
+<expan>Autore</expan>
+</choice> e' acuta in 
+<lb facs="#riga88_pag31"/>
+            questo soggetto: comecche' in qualche punto ci pare che non 
+<lb facs="#riga89_pag31"/>
+            chiarisca abbastanza il pensiero degli economisti ed esageri 
+<lb facs="#riga90_pag31"/>
+            l'importanza di cause secondarie. Dobbiamo inoltro notare
+<lb facs="#riga91_pag31"/>
+            ch'egli non ha messo in risalto il merito che riguardo a
+<lb facs="#riga92_pag31"/>
+            tale quesito spetta al <persName>Senior</persName> d'avere integrato la formula 
+<lb facs="#riga93_pag31"/>
+            del <persName>Ricardo</persName> col nuovo elemento dell'astinenza.
+</ab>
+</div>
+
+<!-- Vincenzo Campanile-->
+<div type="bibliografia" n="4" xml:lang="it">
+<pb n="2" facs="#bibliografia2" />
+<cb n="1"/>
+<head>
+<lb facs="#titolo_r1_pag32_2" />
+<persName rend="uppercase">Vincenzo Campanile</persName>,<title>Lezioni di Algebra Elementare</title>.
+<lb facs="#titolo_r2_pag32_2" />
+-<placeName>Napoli</placeName>,<date>188<choice>
+<orig></orig>
+<reg>0</reg>
+</choice>
+</date>.
+</head>
+<ab>
+
+<lb facs="#riga1_pag32_2"/>
+<persName>Vincenzo Campanile</persName>,<title>Lezioni di Algebra Elementare</title>.<placeName>Na-<lb break="no"/>
+<lb facs="#riga2_pag32_2"/>
+            poli</placeName>,Stab. tip. V. Morano,<date>188.</date>
+<lb facs="#riga3_pag32_2"/>
+            A <choice>
+<abbr>pag.</abbr>
+<expan>pagina</expan>
+</choice> 4, dopo avere mostrato che in un prodotto di 
+<lb facs="#riga4_pag32_2"/>
+            due numeri interi, e astratti si possono scambiare i fattori, 
+<lb facs="#riga5_pag32_2"/>
+            l'<choice>
+<abbr>A.</abbr>
+<expan>Autore</expan>
+</choice> dice: <quote>«se nel prodotto ab il moltiplicando a non fosse 
+<lb facs="#riga6_pag32_2"/>
+            intero e astratto, sara' eziandio permesso scambiare l'ordine
+<lb facs="#riga7_pag32_2"/>
+            dei fattori, ma la natura di ciascuno non puo' essere mu-<lb break="no"/>
+<lb facs="#riga8_pag32_2"/>
+            tata, cioe', potra' sostituirsi al prodotto ab l'altro ba, ma
+<lb facs="#riga9_pag32_2"/>
+            rappresentera' sempre a il moltiplicando e b il moltiplicatore;»</quote>
+<lb facs="#riga10_pag32_2"/>
+            ma allora non ci pare che sieno scambiati: l'<choice>
+<abbr>A.</abbr>
+<expan>Autore</expan>
+</choice> avrebbe do-<lb break="no"/>
+<lb facs="#riga11_pag32_2"/>
+            vuto qui spiegar meglio il suo concetto o tacere affatto.
+<lb facs="#riga12_pag32_2"/>
+            A <choice>
+<abbr>pag.</abbr>
+<expan>pagina</expan>
+</choice> 10 e 11 introduce i numeri negativi: egli dice:
+<lb facs="#riga13_pag32_2"/>
+<quote>«si e' convenuto di continuare la serie dei numeri naturali
+<lb facs="#riga14_pag32_2"/>
+            al di sotto dello zero col sussidio di numeri preceduti del
+<lb facs="#riga15_pag32_2"/>
+            segno -, e chiamati negativi.»</quote> e' la definizione di un con-<lb break="no"/>
+<lb facs="#riga16_pag32_2"/>
+            cetto, codesta? a noi pare di no; qui si inventa un nuovo
+<lb facs="#riga17_pag32_2"/>
+            segno, ma non se ne definisco davvero il significato con le
+<lb facs="#riga18_pag32_2"/>
+            sole parole <quote>«al di sotto di zero>.»</quote> Egli continua poi: <quote>«In-<lb break="no"/>
+<lb facs="#riga19_pag32_2"/>
+            seguito a questa estensione e' sempre possibile calcolare la
+<lb facs="#riga20_pag32_2"/>
+            differenza tra a e b. Se a e' minore di b, la differenza si 
+<lb facs="#riga21_pag32_2"/>
+            conviene di rappresentarla con un numero composto da 
+<lb facs="#riga22_pag32_2"/>
+            tante unita' negative, quante unita' positive bisogna aggiun-<lb break="no"/>
+<lb facs="#riga23_pag32_2"/>
+            gere ad a, per avere b, ossia b-a.»</quote> O cos'e' un' unita' ne-<lb break="no"/>
+<lb facs="#riga24_pag32_2"/>
+            gativa? Secondo l'anzidetto definizione l'unita' negativa e' 
+<lb facs="#riga25_pag32_2"/>
+            il numero 1 preceduto dal segno - ; ma, cosi' facendo senza 
+<lb facs="#riga26_pag32_2"/>
+            aggiungere altro si produce si' un nuovo simbolo, ma non
+<lb facs="#riga27_pag32_2"/>
+            gia' un nuovo concetto. Poi dice, che i numeri negativi 
+<lb facs="#riga28_pag32_2"/>
+            debbono riguardarsi minori di zero, ma si e' dimenticato
+<lb facs="#riga29_pag32_2"/>
+            di dire che significato abbiano le parole maggiore e mi-<lb break="no"/>
+<lb facs="#riga30_pag32_2"/>
+            nore applicato ai numeri negativi.
+<lb facs="#riga31_pag32_2"/>
+            Ora se si noti che questo dei numeri negativi e' uno
+<lb facs="#riga32_pag32_2"/>
+            dei punti fondamentali dell'<title>Aritmetica generale</title>, si potra'
+<lb facs="#riga33_pag32_2"/>
+            apprezzare quanto gravemente pecchi qui il libro del
+<lb facs="#riga34_pag32_2"/>
+            sig. <persName>Campanile</persName>.
+<lb facs="#riga35_pag32_2"/>
+            Di questa mancanza di rigore e precisione, potremmo
+<lb facs="#riga36_pag32_2"/>
+            portare anche altri esempi: veggasi <choice>
+<abbr>p. es.</abbr>
+<expan>per esempio</expan>
+</choice> a <choice>
+<abbr>pag.</abbr>
+<expan>pagina</expan>
+</choice> 78 in che 
+<lb facs="#riga37_pag32_2"/>
+            modo disinvolto si conclude, che una frazione, il cui deno-<lb break="no"/>
+<lb facs="#riga38_pag32_2"/>
+            minatore divien nullo, senzache' insieme lo divenga il nu-<lb break="no"/>
+<lb facs="#riga39_pag32_2"/>
+            meratore, acquista un valore superiore a ogni numero
+<lb facs="#riga40_pag32_2"/>
+            finito; leggasi l'osservazione a <choice>
+<abbr>pag.</abbr>
+<expan>pagina</expan>
+</choice> 90: e si trovera' che
+<lb facs="#riga41_pag32_2"/>
+            non e' possibile esporre cose giuste nella sostanza, in modo
+<lb facs="#riga42_pag32_2"/>
+            piu' inesatto.
+<lb facs="#riga43_pag32_2"/>
+            La moltiplicazione per un numero frazionario e' definita
+<lb facs="#riga44_pag32_2"/>
+            solamente a <choice>
+<abbr>pag.</abbr>
+<expan>pagina</expan>
+</choice> 72; dimodoche' nelle pagine precedenti, in
+<lb facs="#riga45_pag32_2"/>
+<cb n="2"/>
+            cui si espone la <title>Teoria delle Operazioni</title> di calcolo sui
+<lb facs="#riga46_pag32_2"/>
+            monomi e polinomi, e' sempre inteso che le lettere, che com-<lb break="no"/>
+<lb facs="#riga47_pag32_2"/>
+            pariscono come moltiplicatori, rappresentino solo numeri
+<lb facs="#riga48_pag32_2"/>
+            interi; e allora si domanda: tutto quello che e' stato esposto
+<lb facs="#riga49_pag32_2"/>
+            nelle prime <choice>
+<abbr>72 pag.</abbr>
+<expan>72 pagine</expan>
+</choice> continua a sussistere se alle lettere,
+<lb facs="#riga50_pag32_2"/>
+            che compariscono nelle espressioni algebriche ivi conside-<lb break="no"/>
+<lb facs="#riga51_pag32_2"/>
+            rate, si attribuiscono anche valori frazionari? L'<choice>
+<abbr>A.</abbr>
+<expan>Autore</expan>
+</choice> non
+<lb facs="#riga52_pag32_2"/>
+            risponde a questa domanda; e a noi pare che avrebbe fatto
+<lb facs="#riga53_pag32_2"/>
+            meglio ad evitare la domanda medesima, anteponendo la
+<lb facs="#riga54_pag32_2"/>
+            definizione della moltiplicazione per un frazionario.
+<lb facs="#riga55_pag32_2"/>
+            La solita definizione di radice vien posta dopo le equa-<lb break="no"/>
+<lb facs="#riga56_pag32_2"/>
+            zioni di <hi rend="sup">1°</hi> grado. Il ritardare in un libro elementare, la
+<lb facs="#riga57_pag32_2"/>
+            considerazione delle radici e' utile perche' consente, avuto
+<lb facs="#riga58_pag32_2"/>
+            riguardo alla maggiore maturita' di mente degli allievi, di 
+<lb facs="#riga59_pag32_2"/>
+            trattare gli irrazionali un po' piu' rigorosamente di quello
+<lb facs="#riga60_pag32_2"/>
+            che possa farsi al primo principio dell'insegnamento dell'Al-<lb break="no"/>
+<lb facs="#riga61_pag32_2"/>
+            gebra; ma non pare che il nostro <choice>
+<abbr>A.</abbr>
+<expan>Autore</expan>
+</choice> abbia avuto questo
+<lb facs="#riga62_pag32_2"/>
+            di mira; di numeri irrazionali non si parla affatto in tutto 
+<lb facs="#riga63_pag32_2"/>
+            il libro; questo e' sicuramente un modo molto spiccio di
+<lb facs="#riga64_pag32_2"/>
+            evitare i punti scabrosi, ma non oseremmo dire che sia il
+<lb facs="#riga65_pag32_2"/>
+            migliore; che dei numeri irrazionali in un libro elementare
+<lb facs="#riga66_pag32_2"/>
+            non se ne faccia una trattazione <foreign>ex-professo</foreign>, lo intendiamo,
+<lb facs="#riga67_pag32_2"/>
+            ma che si ci parli di radici e di logaritmi senza neanche
+<lb facs="#riga68_pag32_2"/>
+            accennare che non e' possibile averli sempre espressi coi 
+<lb facs="#riga69_pag32_2"/>
+            soli numeri interi o frazionari, non ci pare per nulla 
+<lb facs="#riga70_pag32_2"/>
+            rigoroso.
+<lb facs="#riga71_pag32_2"/>
+            Forse, a giustificazione di tale lacuna, si potra' pensare
+<lb facs="#riga72_pag32_2"/>
+            che l'<choice>
+<abbr>A.</abbr>
+<expan>Autore</expan>
+</choice> abbia avuto in mira di darci un libro il piu' ele-<lb break="no"/>
+<lb facs="#riga73_pag32_2"/>
+            mentare possibile; ma non e' cosi', perche' in quel libro si 
+<lb facs="#riga74_pag32_2"/>
+            trattano anche alcuni argomenti, come i determinanti, la
+<lb facs="#riga75_pag32_2"/>
+            potenza di un polinomio, le frazioni continue, l'analisi inde-<lb break="no"/>
+<lb facs="#riga76_pag32_2"/>
+            terminata, i quali oltrepassano i limiti dell'insegnamento 
+<lb facs="#riga77_pag32_2"/>
+            liceale.
+<lb facs="#riga78_pag32_2"/>
+            Certo e' piu' facile trattare questi argomenti anziche' 
+<lb facs="#riga79_pag32_2"/>
+            quello dei numeri irrazionali; ma non e' ragionevole che si
+<lb facs="#riga80_pag32_2"/>
+            occupi di quelli un libro elementare che non da' neanche
+<lb facs="#riga81_pag32_2"/>
+            un cenno su questi.
+<lb facs="#riga82_pag32_2"/>
+            Concludendo, non possiamo lodare questo libro. Sappia-<lb break="no"/>
+<lb facs="#riga83_pag32_2"/>
+            mo bene che il fare un buon libro di testo per le scuole se-<lb break="no"/>
+<lb facs="#riga84_pag32_2"/>
+            condarie e' opera quanto utile altrettanto difficile, ed e' 
+<lb facs="#riga85_pag32_2"/>
+            gravissimo danno che ancora, e alludiamo specialmente alle
+<lb facs="#riga86_pag32_2"/>
+            matematiche, cosi' per l'uno come per l'altro ramo, non 
+<lb facs="#riga87_pag32_2"/>
+            lo si abbia quale veramente si desidera; ma e' danno an-<lb break="no"/>
+<lb facs="#riga88_pag32_2"/>
+            che piu' grave, che ogni professore di Liceo si creda in
+<lb facs="#riga89_pag32_2"/>
+            dovere di pubblicarne uno.
+
+</ab>
+</div>
+
+
+<!-- Riviste francesi-->
+<div type="article" n="5" xml:lang="it">
+<pb n="1" facs="#notizia1" />
+<cb n="1"/>
+<head rend="uppercase">
+<lb facs="#notizia1titolo"/>
+<title>RIVISTE FRANCESI</title>
+<lb facs="#riga2_pag33"/>
+<title>
+<foreign xml:lang="fr">REVUE DES DEUXMONDES</foreign>. -<date>1° LUGLIO</date>.
+</title>
+</head>
+<ab>
+<lb facs="#riga3_pag33"/>
+<title>
+<foreign xml:lang="fr">La force et la faiblesse des gouvernements de'mocratiques</foreign>
+</title>.
+<lb facs="#riga4_pag33"/>
+            Il <choice>
+<abbr>sig.</abbr>
+<expan>signore</expan>
+</choice>
+<persName>
+<choice>
+<abbr>G.</abbr>
+<expan>Gustave</expan>
+</choice> Valbert</persName>  prende occasione di parlare della
+<lb facs="#riga5_pag33"/>
+            forza e della debolezza dei <orgName>governi democratici</orgName> movendo<lb/>
+<lb facs="#riga6_pag33"/>
+            da una discussione che nel <date>1873</date> avvenne fra il <persName>principe
+<lb facs="#riga7_pag33"/>
+            di Bismarck</persName> e il <persName>conte Arnim</persName>, allora ambasciatore germa-<lb break="no"/>
+<lb facs="#riga8_pag33"/>
+            nico a <placeName>Parigi</placeName>, sulla forma di governo che un buon prussiano
+<lb facs="#riga9_pag33"/>
+            doveva augurare alla <placeName>Francia</placeName>. Il gran Cancelliere si mostrava
+<lb facs="#riga10_pag33"/>
+            favorevole alla <orgName>repubblica</orgName>, perche' egli credeva che questa
+<lb facs="#riga11_pag33"/>
+            dovesse condurre fatalmente un popolo dalla dispepsia alla
+<lb facs="#riga12_pag33"/>
+            aspepsia o dall'apepsia all'anarchia completa. Il <persName>conte Arnim</persName>
+<lb facs="#riga13_pag33"/>
+            sosteneva invece che una restaurazione monarchica avrebbe
+<lb facs="#riga14_pag33"/>
+            tali difficolta', e tanto da fare all'interno che non potrebbe
+<lb facs="#riga15_pag33"/>
+            intraprendere nulla al di fuori, mentre la <orgName>repubblica</orgName> po-<lb break="no"/>
+<lb facs="#riga16_pag33"/>
+            trebbe assicurare alla <placeName>Francia</placeName> l'ordine e la prosperita'. Le
+<lb facs="#riga17_pag33"/>
+            predizioni che si possono fare sull'avvenire che un popolo si
+<lb facs="#riga18_pag33"/>
+            prepara adottando tale o tal'altra forma di governo sono sem-<lb break="no"/>
+<lb facs="#riga19_pag33"/>
+            pre incerte. Tutte le istituzioni umane portano seco il germe
+<lb facs="#riga20_pag33"/>
+            della malattia che le uccidera'. Quando esse abbondano nel
+<lb facs="#riga21_pag33"/>
+            loro proprio senso periscono certamente; quando hanno la
+<lb facs="#riga22_pag33"/>
+            prudenza di moderarsi, di reagire contro le proprie tendenze,
+<lb facs="#riga23_pag33"/>
+            esse possono percorrere una via lunga e gloriosa. Citando <persName>Ari-<lb break="no"/>
+<lb facs="#riga24_pag33"/>
+            stotile</persName>, l'<choice>
+<abbr>A.</abbr>
+<expan>Autore</expan>
+</choice> ricorda ch'esso applicava codesto ragionamento
+<lb facs="#riga25_pag33"/>
+            alla <orgName>democrazia</orgName>, a cui raccomandava le precauzioni, la mi-<lb break="no"/>
+<lb facs="#riga26_pag33"/>
+            sura, la temperanza, perche' <quote>« la migliore costituzione demo-<lb break="no"/>
+<lb facs="#riga27_pag33"/>
+cratica non e' la piu' democratica, ma la piu' durevole.» </quote>
+<lb facs="#riga28_pag33"/>
+            Il <orgName>governo democratico</orgName> e' sotto certi aspetti piu' forte
+<lb facs="#riga29_pag33"/>
+            di tutti i governi. Nei momenti di crisi e di pericolo puo'
+<lb facs="#riga30_pag33"/>
+            osare tutto, e se deve reprimere puo' reprimere con tutte le
+<lb facs="#riga31_pag33"/>
+            forze dei suoi muscoli e non aver nervi ne' cuore. Il coraggio
+<lb facs="#riga32_pag33"/>
+            della responsabilita', spinto fino all'ultimo limite, assai spesso
+<lb facs="#riga33_pag33"/>
+            viene meno ai sovrani; e qualcuno di loro, disgustato, in-<lb break="no"/>
+<lb facs="#riga34_pag33"/>
+            quieto, finisce col dire a se' stesso: <quote>In fin dei conti non si
+<lb facs="#riga35_pag33"/>
+            tratta che di me, e dietro di me non c'e' nessuno.</quote> Queste an-<lb break="no"/>
+<lb facs="#riga36_pag33"/>
+            goscie i <orgName>governi democratici</orgName> non le conoscono, perche' assu-<lb break="no"/>
+<lb facs="#riga37_pag33"/>
+            mono soltanto una responsabilita' collettiva.Si e' sempre
+<lb facs="#riga38_pag33"/>
+            in una buona posizione per difendere l'ordine sociale quando
+<lb facs="#riga39_pag33"/>
+            si combatte non in nome di una famiglia e di un principe,
+<lb facs="#riga40_pag33"/>
+            ma in nome della legge. Ed e' una gran forza quella di rap-<lb break="no"/>
+<lb facs="#riga41_pag33"/>
+            presentare, non gli interessi privati o le ambizioni personali,
+<lb facs="#riga42_pag33"/>
+            ma la volonta' di tutta una nazione. A coloro che gli doman-<lb break="no"/>
+<lb facs="#riga43_pag33"/>
+            dano: <quote>Chi siete voi per resisterci?</quote> il <orgName>governo democratico</orgName>
+<lb facs="#riga44_pag33"/>
+            puo' rispondere: <quote>Non son nessuno, perche' rappresento tutti,
+<lb facs="#riga45_pag33"/>
+            sono la societa', sono la salvezza pubblica.</quote>A tal proposito
+<lb facs="#riga46_pag33"/>
+            l'<choice>
+<abbr>A.</abbr>
+<expan>Autore</expan>
+</choice> reca in suo favore la testimonianza di <persName>Thiers</persName>, che confes-<lb break="no"/>
+<lb facs="#riga47_pag33"/>
+            sava di aver sentito di possedere cotesta forza, quando nel
+<lb facs="#riga48_pag33"/>
+<date>1873</date> aveva detto agli operai scioperanti che non intendeva
+<lb facs="#riga49_pag33"/>
+            di obbligarli al lavoro, ma che proibiva loro di fare attrup-<lb break="no"/>
+<lb facs="#riga50_pag33"/>
+            pamenti sulla strada. Quelli avevan risposto che la strada
+<lb facs="#riga51_pag33"/>
+            era di tutti. – <quote>Avete ragione</quote>, replico' il <persName>Presidente</persName>;<quote>essa
+<lb facs="#riga52_pag33"/>
+            e' anche mia, e vi passeggio con 20,000 uomini.</quote>
+<lb facs="#riga53_pag33"/>
+            Ma il <orgName>governo democratico</orgName> puo' essere piu' debole di
+<lb facs="#riga54_pag33"/>
+            tutti i governi, perche' avviene in esso che l'<orgName>opinione pub-<lb break="no"/>
+<lb facs="#riga55_pag33"/>
+            blica</orgName> abbia una vigilanza intermittente, e vada soggetta a
+<lb facs="#riga56_pag33"/>
+            dei sonni pesanti interrotti da subiti risvegli. Il <orgName>governo</orgName> s'ac-<lb break="no"/>
+<lb facs="#riga57_pag33"/>
+            corge che la <orgName>nazione</orgName> e' spesso assente, e che gli amici invece
+<lb facs="#riga58_pag33"/>
+            sono sempre li'; non si occupa d'altro che di soddisfare
+<lb facs="#riga59_pag33"/>
+            questi. E cosi' qualche migliaio di politicanti di professione
+<lb facs="#riga60_pag33"/>
+            menano a spasso parecchi milioni di persone. Quando si
+<lb facs="#riga61_pag33"/>
+            parla di <orgName>opinione pubblica</orgName>, di voto popolare, di desideri
+<lb facs="#riga62_pag33"/>
+            della <orgName>nazione</orgName>, spesso si tratta soltanto dell'opinione di Ti-<lb break="no"/>
+<lb facs="#riga63_pag33"/>
+            zio o di Caio, del <orgName>voto</orgName> emesso da un <orgName>Comitato</orgName>, del dosi-<lb break="no"/>
+<lb facs="#riga64_pag33"/>
+            derio espresso da qualche personaggio di cui si ha paura.
+<lb facs="#riga65_pag33"/>
+            Non per questo la posizione del <orgName>governo</orgName> e' piu' comoda.
+<lb facs="#riga66_pag33"/>
+            Forse sarebbe piu' facile fare intendere ragione al popolo, an-<lb break="no"/>
+<lb facs="#riga67_pag33"/>
+<cb n="2"/>
+            ziche' contentare una diecina di persone influenti, colle quali
+<lb facs="#riga68_pag33"/>
+            e' pericoloso guastarsi; e quelli che importa piu' di soddi-<lb break="no"/>
+<lb facs="#riga69_pag33"/>
+            sfare sono i piu' esigenti, quelli che gridano, che minacciano,
+<lb facs="#riga70_pag33"/>
+            e che si mettono il berretto per traverso, specialmente se
+<lb facs="#riga71_pag33"/>
+            il berretto e' <foreign xml:lang="fr">frigio</foreign>.<quote>e' un gran vantaggio nella vita,</quote>
+<lb facs="#riga72_pag33"/>
+            dice l'<choice>
+<abbr>A.</abbr>
+<expan>Autore</expan>
+</choice>,<quote>di avere un cattivo carattere.</quote> C'e' in quasi tutte 
+<lb facs="#riga73_pag33"/>
+            le famiglio un uomo sragionevole, suscettibile, irascibile, 
+<lb facs="#riga74_pag33"/>
+            pieno di difficolta'; tutti si preoccupano di trattarlo coi
+<lb facs="#riga75_pag33"/>
+            guanti, di addolcire il suo umore; si hanno dei grandi ri-<lb break="no"/>
+<lb facs="#riga76_pag33"/>
+            guardi per i suoi nervi; si parla sottovoce dinanzi a lui,
+<lb facs="#riga77_pag33"/>
+            gli si cede il primo posto, e se consente a dichiararsi soddi-<lb break="no"/>
+<lb facs="#riga78_pag33"/>
+            sfatto, gli si e' infinitamente grati della sua condiscendenza.
+<lb facs="#riga79_pag33"/>
+            I <orgName>governi democratici</orgName> non si danno molta pena per piacere
+<lb facs="#riga80_pag33"/>
+            ai moderati; li rimandano alla testimonianza della loro pro-<lb break="no"/>
+<lb facs="#riga81_pag33"/>
+            pria coscienza, ch'e' incaricata di ricompensarli. Invece si
+<lb facs="#riga82_pag33"/>
+            curano molto di farsi aggradire dagli esagerati del loro
+<lb facs="#riga83_pag33"/>
+            partito. Si hanno per essi compiacenze senza fine, si risponde
+<lb facs="#riga84_pag33"/>
+            alle loro mossaccie con amenita', alle loro ingiurie con ob-<lb break="no"/>
+<lb facs="#riga85_pag33"/>
+            bliganti sorrisi, e ci si ostina a stender loro una mano ch'e'
+<lb facs="#riga86_pag33"/>
+            stata cento volto respinta. Quando cotesti atrabiliari hanno
+<lb facs="#riga87_pag33"/>
+            per caso la magnanimita' di sottomettersi alla legge come
+<lb facs="#riga88_pag33"/>
+            tutti gli altri, si va in estasi per la loro saggezza, e si ci-<lb break="no"/>
+<lb facs="#riga89_pag33"/>
+            tano come esempi al mondo intiero, compresa la gente one-<lb break="no"/>
+<lb facs="#riga90_pag33"/>
+            sta, e si versano delle lagrime di tenerezza.Il <orgName>governo</orgName> dice
+<lb facs="#riga91_pag33"/>
+            ad essi: <quote>« Vi giuro che in fondo siamo della vostra opinio-<lb break="no"/>
+<lb facs="#riga92_pag33"/>
+            ne. Su che cosa dissentiamo? Non si tratta che di una mo-<lb break="no"/>
+<lb facs="#riga93_pag33"/>
+            dalita'; ci si devo guastare per una modalita'? Non te-<lb break="no"/>
+<lb facs="#riga94_pag33"/>
+            nete conto sufficiente della nostra situazione: quando si e'
+<lb facs="#riga95_pag33"/>
+            agli affari, mi scopre che le cose sono complicate. Di grazia
+<lb facs="#riga96_pag33"/>
+            mettetevi al nostro posto.» </quote> Al che rispondono: <quote>«Ma e' pre-<lb break="no"/>
+<lb facs="#riga97_pag33"/>
+            cisamente cio' che noi domandiamo, e cio' che finira' per ac-<lb break="no"/>
+<lb facs="#riga98_pag33"/>
+            cadere.» </quote> Ed e' cosi' che si vede spesso nella <orgName>democrazia</orgName> un
+<lb facs="#riga99_pag33"/>
+            governo di persone ragionevoli farsi studio di soddisfare
+<lb facs="#riga100_pag33"/>
+            principalmente la gente irragionevole, un governo moderato 
+<lb facs="#riga101_pag33"/>
+            patteggiare cogli immoderati; onde le opinioni estreme di-<lb break="no"/>
+<lb facs="#riga102_pag33"/>
+            vengono il miglior mezzo per giungere a tutto. Quindi 
+<lb facs="#riga103_pag33"/>
+<choice>
+<abbr>A.</abbr>
+<expan>Autore</expan>
+</choice> passa ad esaminare la necessita' in un governo di sa-<lb break="no"/>
+<lb facs="#riga104_pag33"/>
+            per resistere ai capricci dei suoi amici, perche' un <orgName>governo</orgName>,
+<lb facs="#riga105_pag33"/>
+            che rappresenta le idee di un partito, rappresenta pure la 
+<lb facs="#riga106_pag33"/>
+            pace pubblica, di cui risponde, e gl'interessi generali del
+<lb facs="#riga107_pag33"/>
+            paese. Il governo pero' non e' soltanto l'arbitro di cotesti 
+<lb facs="#riga108_pag33"/>
+            interessi, egli ha il dovere altresi' di reagire contro le de-<lb break="no"/>
+<lb facs="#riga109_pag33"/>
+            bolezze d'una nazione, che si lascia andare, e deve lavorare
+<lb facs="#riga110_pag33"/>
+            a rialzarne il livello, dotandola dell'aristocrazia della intelli-<lb break="no"/>
+<lb facs="#riga111_pag33"/>
+            genza. Il male sta in cio', che i <orgName>governi democratici</orgName>, che pure
+<lb facs="#riga112_pag33"/>
+            sono i piu' conformi alla giustizia, favoriscono la mediocrita'.
+<lb facs="#riga113_pag33"/>
+            Si puo' avere un paese in cui tutti sappiano un po' di tutto, e 
+<lb facs="#riga114_pag33"/>
+            nonostante non vi sia un uomo eminente. I <orgName>governi democra-<lb break="no"/>
+<lb facs="#riga115_pag33"/>
+            tici</orgName> sono al tempo stesso i piu' forti e i piu' deboli. Essi 
+<lb facs="#riga116_pag33"/>
+            farebbero bene a servirsi del loro potere per combattere i
+<lb facs="#riga117_pag33"/>
+            difetti della democrazia invece di favorirli e di lusingarli: 
+<lb facs="#riga118_pag33"/>
+            tutto andrebbe meglio se adoperassero, nel difendersi dai
+<lb facs="#riga119_pag33"/>
+            loro amici, una parte della forza che riservano intiera per
+<lb facs="#riga120_pag33"/>
+            combattere i nemici. Basterebbe a questo scopo che aves-<lb break="no"/>
+<lb facs="#riga121_pag33"/>
+            sero alla loro testa un uomo che sapesse volere. Vi sono
+<lb facs="#riga122_pag33"/>
+            dei momenti in cui le <orgName>democrazie</orgName> sono disposte ad inginoc-<lb break="no"/>
+<lb facs="#riga123_pag33"/>
+            chiarsi dinanzi alla forza; esse indovinano per una specie
+<lb facs="#riga124_pag33"/>
+            d'istinto che quello che a loro manca e' specialmente il ca-<lb break="no"/>
+<lb facs="#riga125_pag33"/>
+            rattere, e noi ammiriamo sempre cio' che ci manca. Un uomo
+<lb facs="#riga126_pag33"/>
+            di carattere e di volonta', ecco per certo il piu' prezioso 
+<lb facs="#riga127_pag33"/>
+            dono che il cielo posso fare a loro. <quote>Un cavallo per il mio 
+<lb facs="#riga128_pag33"/>
+            regno! il mio regno per un cavallo!</quote> gridava <persName>Riccardo III</persName>.
+<lb facs="#riga129_pag33"/>
+            Vi sono dei giorni (e qui l'<choice>
+<abbr>A.</abbr>
+<expan>Autore</expan>
+</choice> termina alludendo evidente-<lb break="no"/>
+<lb facs="#riga130_pag33"/>
+            mente alla <placeName>Francia</placeName>) in cui una <orgName>nazione</orgName> che si gente povera 
+<lb facs="#riga131_pag33"/>
+            nella sua ricchezza, ne sacrificherebbe di tutto cuore la meta' 
+<lb facs="#riga132_pag33"/>
+            per trovare un uomo che sapesse dire di no.
+<lb facs="#riga133_pag33"/>
+
+</ab>
+</div>
+
+<!-- La rassegna settimanale-->
+<div type="article" n="6" xml:lang="it">
+<pb n="2" facs="#notizia2" />
+<cb n="1"/>
+<head rend="uppercase" facs="#notizia2titolo">
+
+<lb facs="#riga1_pag34"/>
+<title>LA RASSEGNA SETTIMANALE</title>
+<lb facs="#riga2_pag34"/>
+<title>Sommario del <choice>
+<abbr>n.</abbr>
+<expan>numero</expan>
+</choice> 13, <choice>
+<abbr>vol.</abbr>
+<expan>volume</expan>
+</choice> 5°</title> (<date>27 giugno 1880</date>).
+</head>
+<ab>
+<lb facs="#riga3_pag34"/>
+            L' abbuonamento al <orgName>Dazio di consumo</orgName> pei <orgName>Comuni</orgName> aperti. Il cin-<lb break="no"/>
+<lb facs="#riga4_pag34"/>
+            quantesimo anniversario dell'indipendenza belga. - Le indagini sulla
+<lb facs="#riga5_pag34"/>
+            paternita' naturale nella legislazione italiana. Corrispondenza da
+<lb facs="#riga6_pag34"/>
+<placeName>Londra</placeName>. - Il Paesaggio all'esposizione artistica di <placeName>Torino</placeName> (<persName>V.V.</persName>).
+<lb facs="#riga7_pag34"/>
+            - Corrispondenza letteraria da <placeName>Londra</placeName>.<title>Conversazioni di <persName>Nassau Senior</persName>
+</title>.
+<lb facs="#riga8_pag34"/>
+            -<title>La patria di <persName>Pier della Vigna</persName>
+</title> (<persName>Francesco Torraca</persName>).Un suggeri-<lb break="no"/>
+<lb facs="#riga9_pag34"/>
+            mento agli editori della <title>Somma di <persName>Tommaso d'Aquino</persName>
+</title> - La
+<lb facs="#riga10_pag34"/>
+<title>La Carta geologica d'Italia</title>. Lettera al Direttore (<persName>Carlo De Stefani</persName>
+<roleName>
+<choice>
+<abbr>LL. D.</abbr>
+<expan>Legum Doctor</expan>
+</choice>
+</roleName>).
+<lb facs="#riga11_pag34"/>
+            —<title>Bibliografia</title>
+<persName>Vigilio Inama</persName>,<title>Manuale di Letteratura Greca</title>. —<persName>Giulio
+<lb facs="#riga12_pag34"/>
+            Navone</persName>,<title>Le Rime di Folgore da San Gimignano o di Cene dalla Chi-<lb break="no"/>
+<lb facs="#riga13_pag34"/>
+            tarra d'<placeName>Arezzo</placeName>
+</title> nuovamente pubblicato.  - <persName>Giovanni Cancetrini</persName>,<title>La teoria
+<lb facs="#riga14_pag34"/>
+            di <persName>Darwin</persName> criticamente esposta</title>. -<persName>Giacomo Cattaneo</persName>,<title>Darwinismo. Sag-<lb break="no"/>
+<lb facs="#riga15_pag34"/>
+            gio sulla evoluzione degli organismi</title>. -<title> Notizie. </title> -<title>La Settimana. </title>
+<lb facs="#riga16_pag34"/>
+            -<title>Riviste <placeName>Francesi</placeName>.
+</title> - Articoli che riguardano l'<placeName>Italia</placeName> negli ultimi nu-<lb break="no"/>
+<lb facs="#riga17_pag34"/>
+            meri dei Periodici stranieri.
+<lb facs="#riga18_pag34"/>
+
+<title>Sommario del <choice>
+<abbr>n.</abbr>
+<expan>numero</expan>
+</choice> 131, <choice>
+<abbr>vol.</abbr>
+<expan>volume</expan>
+</choice> 6°</title> (<date>4 luglio 1880</date>).
+<lb facs="#riga19_pag34"/>
+<title>Un frammento di legislazione sociale</title>. -<title>Le Congregazioni di Ca-<lb break="no"/>
+<lb facs="#riga20_pag34"/>
+            rita'</title> e i <orgName>Consigli Provinciali</orgName>. -<title>La polizia dei costumi</title>. Corrispon-<lb break="no"/>
+<lb facs="#riga21_pag34"/>
+            denza da <placeName>Pistoia</placeName>. A proposito degli spedali riuniti. - <title>Canti narrativi
+<lb facs="#riga22_pag34"/>
+            del popolo siciliano</title> (<persName>
+<choice>
+<abbr>A.</abbr>
+<expan>Antonio</expan>
+</choice> D'Ancona</persName>). -<title>Gentile da Leonessa</title> (<persName>
+<choice>
+<abbr>A.</abbr>
+<expan>Antonio</expan>
+</choice>De Nino</persName>).
+<lb facs="#riga23_pag34"/>
+            -<title>La Vita Solitaria di <persName>Giacomo Leopardi</persName>
+</title> (<persName>Licurgo Pieretti</persName>). -<title>L'Os-<lb break="no"/>
+<lb facs="#riga24_pag34"/>
+            servatorio Bellini sull'<placeName>Etna</placeName>
+</title>
+<persName>
+<choice>
+<abbr>E.</abbr>
+<expan>Elia</expan>
+</choice> Millosevich</persName>. -<title>Bibliografia</title>:<persName>Atto Van-<lb break="no"/>
+<lb facs="#riga25_pag34"/>
+<cb n="2"/>
+            nucci</persName>,<title>Proverbi latini illustrati</title>. -<persName>Carlo F. Ferrario</persName>,<title>Saggi di Econo-<lb break="no"/>
+<lb facs="#riga26_pag34"/>
+            mia, Statistica e Scienza dell'Amministrazione</title>, II. <persName>
+<choice>
+<abbr>S.</abbr>
+<expan>Salvatore</expan>
+</choice> Pincherle</persName>,<title>Al-<lb break="no"/>
+<lb facs="#riga27_pag34"/>
+            gebra elementare</title> (Manuali Hoepli). -<title> Notizie. </title> -<title>La Settimana. </title> -
+<lb facs="#riga28_pag34"/>
+<title>Riviste <placeName>Italiane</placeName>.
+</title> - Articoli che riguardano l'<placeName>Italia</placeName> negli ultimi numeri 
+<lb facs="#riga29_pag34"/>
+            dei Periodici stranieri.
+</ab>
+</div>
+
+</body>
+
+
+<back>
+<listPerson>
+<person>
+<persName>Walter Bagehot</persName>
+</person>
+<person>
+<persName>Vincenzo Campanile</persName>
+</person>
+<person>
+<persName>Grimaldi</persName>
+</person>
+<person>
+<persName>Berti Domenico</persName>
+</person>
+<person>
+<persName>Corbetta</persName>
+</person>
+<person>
+<persName>Perazzi</persName>
+</person>
+<person>
+<persName>Maurogonato</persName>
+</person>
+<person>
+<persName>Laporta</persName>
+</person>
+<person>
+<persName>Massari</persName>
+</person>
+<person>
+<persName>Sidney</persName>
+</person>
+<person>
+<persName>Sonnino</persName>
+</person>
+<person>
+<persName>Branca</persName>
+</person>
+<person>
+<persName>Luzzatti</persName>
+</person>
+<person>
+<persName>Pasquali</persName>
+</person>
+<person>
+<persName>Toscanelli</persName>
+</person>
+<person>
+<persName>Minghetti</persName>
+</person>
+<person>
+<persName>Rubattino</persName>
+</person>
+<person>
+<persName>Freppel</persName>
+</person>
+<person>
+<persName>Giulio Simon</persName>
+</person>
+<person>
+<persName>cLabiche</persName>
+</person>
+<person>
+<persName>Bozerian</persName>
+</person>
+<person>
+<persName>Gladstone</persName>
+</person>
+<person>
+<persName>Germanico</persName>
+</person>
+<person>
+<persName>Varo</persName>
+</person>
+<person>
+<persName>Flavio</persName>
+</person>
+<person>
+<persName>Arminio</persName>
+</person>
+<person>
+<persName>Tiberio</persName>
+</person>
+<person>
+<persName>Tacito</persName>
+</person>
+<person>
+<persName>Segeste</persName>
+</person>
+<person>
+<persName>Strabone</persName>
+</person>
+<person>
+<persName>Thusnelda</persName>
+</person>
+<person>
+<persName>Thumelicus</persName>
+</person>
+<person>
+<persName>Grimm</persName>
+</person>
+<person>
+<persName>Caligola</persName>
+</person>
+<person>
+<persName>Balduino II</persName>
+</person>
+<person>
+<persName>Luigi IX</persName>
+</person>
+<person>
+<persName>Tristan de Saint-Amand</persName>
+</person>
+<person>
+<persName>Peiresc</persName>
+</person>
+<person>
+<persName>Jacques Le Roi</persName>
+</person>
+<person>
+<persName>Augusto</persName>
+</person>
+<person>
+<persName>Mnemosine</persName>
+</person>
+<person>
+<persName>Veturia</persName>
+</person>
+<person>
+<persName>Coriolano</persName>
+</person>
+<person>
+<persName>Mongez</persName>
+</person>
+<person>
+<persName>Ramide</persName>
+</person>
+<person>
+<persName>Sesitavo</persName>
+</person>
+<person>
+<persName>Göttling</persName>
+</person>
+<person>
+<persName>Marco Aurelio</persName>
+</person>
+<person>
+<persName>Leone Strozzi</persName>
+</person>
+<person>
+<persName>Carattaco</persName>
+</person>
+<person>
+<persName>Eckhel</persName>
+</person>
+<person>
+<persName>Montfaucon</persName>
+</person>
+<person>
+<persName>Piloty</persName>
+</person>
+<person>
+<persName></persName>
+</person>
+<person>
+<persName>Rumilo</persName>
+</person>
+<person>
+<persName>Sesitaco</persName>
+</person>
+<person>
+<persName>Segimundo</persName>
+</person>
+<person>
+<persName>Segimero</persName>
+</person>
+<person>
+<persName>Deutorige</persName>
+</person>
+<person>
+<persName>Klopstock</persName>
+</person>
+<person>
+<persName>Federico Halm</persName>
+</person>
+<person>
+<persName>Claudio</persName>
+</person>
+<person>
+<persName>Italico</persName>
+</person>
+<person>
+<persName>IGINIO GENTILE</persName>
+</person>
+<person>
+<persName>Cliffe Leslie</persName>
+</person>
+<person>
+<persName>Cairnes</persName>
+</person>
+<person>
+<persName>Smith</persName>
+</person>
+<person>
+<persName>Malthus</persName>
+</person>
+<person>
+<persName>Ricardo</persName>
+</person>
+<person>
+<persName>Mill</persName>
+</person>
+<person>
+<persName>Senior</persName>
+</person>
+<person>
+<persName>Gustave Valbert</persName>
+</person>
+<person>
+<persName>Arnim</persName>
+</person>
+<person>
+<persName>Aristotele</persName>
+</person>
+<person>
+<persName>Thiers</persName>
+</person>
+<person>
+<persName>Riccardo III</persName>
+</person>
+<person>
+<persName>Nassau Senior</persName>
+</person>
+<person>
+<persName>Pier della Vigna</persName>
+</person>
+<person>
+<persName>Francesco Torraca</persName>
+</person>
+<person>
+<persName>Tommaso d'Aquino</persName>
+</person>
+<person>
+<persName>Carlo De Stefani</persName>
+</person>
+<person>
+<persName>Vigilio Inama</persName>
+</person>
+<person>
+<persName>Giulio Navone</persName>
+</person>
+<person>
+<persName>Giovanni Cancetrini</persName>
+</person>
+<person>
+<persName>Darwin</persName>
+</person>
+<person>
+<persName>Giacomo Cattaneo</persName>
+</person>
+<person>
+<persName>Antonio D'Ancona</persName>
+</person>
+<person>
+<persName>Giacomo Leopardi</persName>
+</person>
+<person>
+<persName>Licurgo Pieretti</persName>
+</person>
+<person>
+<persName>Elia Millosevich</persName>
+</person>
+<person>
+<persName>Atto Vannucci</persName>
+</person>
+<person>
+<persName>Carlo Ferrario</persName>
+</person>
+<person>
+<persName>Salvatore Pincherle</persName>
+</person>
+<person>
+<persName>conte Arnim</persName>
+</person>
+</listPerson>
+
+<listPlace>
+<place>
+<placeName>Italia</placeName>
+</place>
+<place>
+<placeName>Goletta</placeName>
+</place>
+<place>
+<placeName>Tunisi</placeName>
+</place>
+<place>
+<placeName>Francia</placeName>
+</place>
+<place>
+<placeName>Tunisia</placeName>
+</place>
+<place>
+<placeName>Algeria</placeName>
+</place>
+<place>
+<placeName>Reggenza</placeName>
+</place>
+<place>
+<placeName>Senna</placeName>
+</place>
+<place>
+<placeName>Cappella</placeName>
+</place>
+<place>
+<placeName>Belgio</placeName>
+</place>
+<place>
+<placeName>Turchia</placeName>
+</place>
+<place>
+<placeName>Bosforo</placeName>
+</place>
+<place>
+<placeName>Inghilterra</placeName>
+</place>
+<place>
+<placeName>Vienna</placeName>
+</place>
+<place>
+<placeName>Madrid</placeName>
+</place>
+<place>
+<placeName>Marocco</placeName>
+</place>
+<place>
+<placeName>Teutoburga</placeName>
+</place>
+<place>
+<placeName>Weser</placeName>
+</place>
+<place>
+<placeName>Roma</placeName>
+</place>
+<place>
+<placeName>Elba</placeName>
+</place>
+<place>
+<placeName>Ravenna</placeName>
+</place>
+<place>
+<placeName>Parigi</placeName>
+</place>
+<place>
+<placeName>Loggia dei Lanzi</placeName>
+</place>
+<place>
+<placeName>Firenze</placeName>
+</place>
+<place>
+<placeName>tempio di Saturno</placeName>
+</place>
+<place>
+<placeName>Foro Traiano</placeName>
+</place>
+<place>
+<placeName>Museo Britannico</placeName>
+</place>
+<place>
+<placeName>Germania</placeName>
+</place>
+<place>
+<placeName>Napoli</placeName>
+</place>
+<place>
+<placeName>Londra</placeName>
+</place>
+<place>
+<placeName>Torino</placeName>
+</place>
+<place>
+<placeName>Arezzo</placeName>
+</place>
+<place>
+<placeName>Pistoia</placeName>
+</place>
+<place>
+<placeName>Etna</placeName>
+</place>
+<place>
+<placeName>Idistaviso</placeName>
+</place>
+</listPlace>
+
+<listOrg>
+<org>
+<orgName>governo</orgName>
+</org>
+<org>
+<orgName>Ministero</orgName>
+</org>
+<org>
+<orgName>Compagnia italiana</orgName>
+</org>
+<org>
+<orgName>congregazioni religiose</orgName>
+</org>
+<org>
+<orgName>Camera dei Deputati</orgName>
+</org>
+<org>
+<orgName>Senato</orgName>
+</org>
+<org>
+<orgName>gesuiti</orgName>
+</org>
+<org>
+<orgName>Destra</orgName>
+</org>
+<org>
+<orgName>Centro</orgName>
+</org>
+<org>
+<orgName>Sinistra</orgName>
+</org>
+<org>
+<orgName>Camera</orgName>
+</org>
+<org>
+<orgName>Commissione</orgName>
+</org>
+<org>
+<orgName>Santa Sede</orgName>
+</org>
+<org>
+<orgName>Legazione</orgName>
+</org>
+<org>
+<orgName>Stato</orgName>
+</org>
+<org>
+<orgName>Camera dei Comuni</orgName>
+</org>
+<org>
+<orgName>potenze</orgName>
+</org>
+<org>
+<orgName>Camera del Signori</orgName>
+</org>
+<org>
+<orgName>Dieta</orgName>
+</org>
+<org>
+<orgName>Impero</orgName>
+</org>
+<org>
+<orgName>governo democratico</orgName>
+</org>
+<org>
+<orgName>repubblica</orgName>
+</org>
+<org>
+<orgName>democrazia</orgName>
+</org>
+<org>
+<orgName>opinione pubblica</orgName>
+</org>
+<org>
+<orgName>nazione</orgName>
+</org>
+<org>
+<orgName>voto</orgName>
+</org>
+<org>
+<orgName>Comitato</orgName>
+</org>
+<org>
+<orgName>Dazio di consumo</orgName>
+</org>
+<org>
+<orgName>Consigli Provinciali</orgName>
+</org>
+</listOrg>
+</back>
+
+</text>
+</TEI>
